@@ -86,11 +86,11 @@ If you find this repository helpful, please consider citing:
 ```bibtex
 @article{reasoning2023arxiv,
     title={Reasoning with Foundation Models: Concepts, Methodologies, and Outlook},
-    author={Sun, Jiankai and  Zheng, Chuanyang and Xie, Enze and Liu, Zhengying and Chu, Ruihang and  Qiu, Jianing and  Xu, Jiaqi
-            and  Ding, Mingyu and  Li, Hongyang and Geng, Mengzhe and Wu, Yue and  Wang, Wenhai and Chen, Junsong and Ren, Xiaozhe
-            and  Fu, Jie and He, Junxian and Yuan, Wu and Liu, Qi and  Liu, Xihui and Li, Yu and Dong, Hao and Cheng, Yu and Zhang, Ming
-            and Heng, Pheng Ann and  Dai, Jifeng and Luo,  Ping and  Wang, Jingdong and Wen, Jirong and Qiu, Xipeng and  Guo, Yike and  Xiong, Hui
-            and Liu, Qun and Li, Zhenguo },
+    author={Sun, Jiankai and Zheng, Chuanyang and Xie, Enze and Liu, Zhengying and Chu, Ruihang and Qiu, Jianing and Xu, Jiaqi
+            and Ding, Mingyu and Li, Hongyang and Geng, Mengzhe and Wu, Yue and Wang, Wenhai and Chen, Junsong and Ren, Xiaozhe
+            and Fu, Jie and He, Junxian and Yuan, Wu and Liu, Qi and Liu, Xihui and Li, Yu and Dong, Hao and Cheng, Yu and Zhang, Ming
+            and Heng, Pheng Ann and Dai, Jifeng and Luo, Ping and Wang, Jingdong and Wen, Jirong and Qiu, Xipeng and Guo, Yike and Xiong, Hui
+            and Liu, Qun and Li, Zhenguo},
     month = {12},
     url = {https://github.com/reasoning-survey/Awesome-Reasoning-Foundation-Models},
     year={2023}
