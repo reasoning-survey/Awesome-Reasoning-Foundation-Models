@@ -2,7 +2,7 @@
 
 ![overview](assets/0_reasoning.jpg) 
 
-A curated list of awesome large AI models, or foundation models, for reasoning.
+[Paper PDF](Reasoning_with_Foundation_Models_Concepts.pdf) A curated list of awesome large AI models, or foundation models, for reasoning.
 We organize the current foundation models into three categories: *language foundation models*, *vision foundation models*, and *multimodal foundation models*.
 Further, we elaborate the foundation models in reasoning tasks, including *commonsense*, *mathematical*, *logical*, *causal*, *visual*, *audio*, *multimodal*, *embodied reasoning*, etc.
 Reasoning techniques are also summarized.
@@ -84,11 +84,12 @@ Qun Liu, and
 If you find this repository helpful, please consider citing:
 
 ```bibtex
-@article{,
-  title={Reasoning with Foundation Models: Concepts, Methodologies, and Outlook},
-  author={},
-  journal={arXiv preprint arXiv:},
-  year={2023}
+@article{reasoning2023arxiv,
+    title={Reasoning with Foundation Models: Concepts, Methodologies, and Outlook},
+    author={Sun, Jiankai and  Zheng, Chuanyang and Xie, Enze and Liu,  Zhengying and Chu, Ruihang and  Qiu, Jianing and  Xu, Jiaqi and  Ding, Mingyu and  Li, Hongyang and Geng, Mengzhe and Wu, Yue and  Wang, Wenhai and Chen, Junsong and Ren, Xiaozhe and  Fu, Jie and He, Junxian and Yuan, Wu and Liu, Qi and  Liu, Xihui and Li, Yu and Dong, Hao and Cheng, Yu and Zhang, Ming and Heng, Pheng Ann and  Dai, Jifeng and Luo,  Ping and  Wang, Jingdong and Wen, Jirong and Qiu, Xipeng and  Guo,Yike and  Xiong, Hui and Liu, Qun and Li, Zhenguo },
+   month = {12},
+    url = {https://github.com/reasoning-survey/Awesome-Reasoning-Foundation-Models},
+    year={2023}
 }
 ```
 
