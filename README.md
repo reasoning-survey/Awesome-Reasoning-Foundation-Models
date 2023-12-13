@@ -2,7 +2,7 @@
 
 ![overview](assets/0_reasoning.jpg) 
 
-[Paper PDF](Reasoning_with_Foundation_Models_Concepts.pdf) A curated list of awesome large AI models, or foundation models, for reasoning.
+[Preprint](https://osf.io/preprints/osf/ac4sp) A curated list of awesome large AI models, or foundation models, for reasoning.
 We organize the current foundation models into three categories: *language foundation models*, *vision foundation models*, and *multimodal foundation models*.
 Further, we elaborate the foundation models in reasoning tasks, including *commonsense*, *mathematical*, *logical*, *causal*, *visual*, *audio*, *multimodal*, *embodied reasoning*, etc.
 Reasoning techniques are also summarized.
