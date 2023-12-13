@@ -1,8 +1,8 @@
-# Awesome-Reasoning-Foundation-Models [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10298864.svg)](https://doi.org/10.5281/zenodo.10298864)
+# Awesome-Reasoning-Foundation-Models [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10298864.svg)](https://doi.org/10.5281/zenodo.10298864) [Preprint](https://osf.io/preprints/osf/ac4sp)
 
 ![overview](assets/0_reasoning.jpg) 
 
-[Preprint](https://osf.io/preprints/osf/ac4sp) A curated list of awesome large AI models, or foundation models, for reasoning.
+A curated list of awesome large AI models, or foundation models, for reasoning.
 We organize the current foundation models into three categories: *language foundation models*, *vision foundation models*, and *multimodal foundation models*.
 Further, we elaborate the foundation models in reasoning tasks, including *commonsense*, *mathematical*, *logical*, *causal*, *visual*, *audio*, *multimodal*, *embodied reasoning*, etc.
 Reasoning techniques are also summarized.
