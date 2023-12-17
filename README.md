@@ -45,7 +45,7 @@ We welcome contributions to this repository to add more resources. Please submit
 
 This repository is primarily based on the following paper:
 
->[**Reasoning with Foundation Models: Concepts, Methodologies, and Outlook**]() <br>
+>[**A Survey of Reasoning with Foundation Models: Concepts, Methodologies, and Outlook**]() <br>
 >
 > [Jiankai Sun](),
 [Chuanyang Zheng](https://chuanyang-zheng.github.io/),
@@ -85,12 +85,14 @@ If you find this repository helpful, please consider citing:
 
 ```bibtex
 @misc{sun_zheng_xie_liu_chu_qiu_xu_ding_li_geng_et al._2023,
- title={Reasoning with Foundation Models: Concepts, Methodologies, and Outlook},
+ title={A Survey of Reasoning with Foundation Models: Concepts, Methodologies, and Outlook},
  url={osf.io/ac4sp},
+ DOI={10.31219/osf.io/ac4sp},
  publisher={OSF Preprints},
  author={Sun, Jiankai and Zheng, Chuanyang and Xie, Enze and Liu, Zhengying and Chu, Ruihang and Qiu, Jianing and Xu, Jiaqi and Ding, Mingyu and Li, Hongyang and Geng, Mengzhe and et al.},
  year={2023},
  month={Dec}
+}
 ```
 
 
