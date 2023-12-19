@@ -1,4 +1,4 @@
-# Awesome-Reasoning-Foundation-Models [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10298864.svg)](https://doi.org/10.5281/zenodo.10298864) [Preprint](https://osf.io/ac4sp)
+# Awesome-Reasoning-Foundation-Models [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10298864.svg)](https://doi.org/10.5281/zenodo.10298864) [[Paper]](https://openreview.net/forum?id=h6DoQzCD2J) [[Preprint]](https://osf.io/ac4sp)
 
 ![overview](assets/0_reasoning.jpg) 
 
