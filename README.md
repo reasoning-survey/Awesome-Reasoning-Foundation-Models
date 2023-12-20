@@ -1,4 +1,4 @@
-# Awesome-Reasoning-Foundation-Models [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10298864.svg)](https://doi.org/10.5281/zenodo.10298864) [![arXiv](https://img.shields.io/badge/arXiv-<INDEX>-<COLOR>.svg)](https://arxiv.org/abs/2312.11562)
+# Awesome-Reasoning-Foundation-Models [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10298864.svg)](https://doi.org/10.5281/zenodo.10298864) [![arXiv](https://img.shields.io/badge/arXiv-arxiv.org/abs/2312.11562-<COLOR>.svg)](https://arxiv.org/abs/2312.11562)
 
 
 ![overview](assets/0_reasoning.jpg) 
