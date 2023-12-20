@@ -1,4 +1,7 @@
-# Awesome-Reasoning-Foundation-Models [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10298864.svg)](https://doi.org/10.5281/zenodo.10298864) [![arXiv](https://img.shields.io/badge/arXiv-arxiv.org/abs/2312.11562-<COLOR>.svg)](https://arxiv.org/abs/2312.11562)
+# Awesome-Reasoning-Foundation-Models
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10298864.svg)](https://doi.org/10.5281/zenodo.10298864)
+[![arXiv](https://img.shields.io/badge/arXiv-arxiv.org/abs/2312.11562-<COLOR>.svg)](https://arxiv.org/abs/2312.11562)
 
 
 ![overview](assets/0_reasoning.jpg) 
@@ -46,7 +49,7 @@ We welcome contributions to this repository to add more resources. Please submit
 
 This repository is primarily based on the following paper:
 
->[**A Survey of Reasoning with Foundation Models: Concepts, Methodologies, and Outlook**]() <br>
+>[**A Survey of Reasoning with Foundation Models**](https://arxiv.org/abs/2312.11562) <br>
 >
 > [Jiankai Sun](),
 [Chuanyang Zheng](https://chuanyang-zheng.github.io/),
@@ -61,6 +64,7 @@ This repository is primarily based on the following paper:
 [Yue Wu](),
 [Wenhai Wang](https://whai362.github.io/),
 [Junsong Chen](),
+[Zhangyue Yin](),
 [Xiaozhe Ren](),
 [Jie Fu](https://bigaidream.github.io/),
 [Junxian He](https://jxhe.github.io/),
