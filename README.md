@@ -1,8 +1,9 @@
-# Awesome-Reasoning-Foundation-Models [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10298864.svg)](https://doi.org/10.5281/zenodo.10298864) [[Paper]](https://openreview.net/forum?id=h6DoQzCD2J) [[Preprint]](https://osf.io/ac4sp)
+# Awesome-Reasoning-Foundation-Models [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10298864.svg)](https://doi.org/10.5281/zenodo.10298864) [![arXiv](https://img.shields.io/badge/arXiv-<INDEX>-<COLOR>.svg)](https://arxiv.org/abs/2312.11562)
+
 
 ![overview](assets/0_reasoning.jpg) 
 
-[PDF Link](https://openreview.net/forum?id=h6DoQzCD2J) A curated list of awesome large AI models, or foundation models, for reasoning.
+[PDF Link](https://arxiv.org/pdf/2312.11562.pdf) A curated list of awesome large AI models, or foundation models, for reasoning.
 We organize the current foundation models into three categories: *language foundation models*, *vision foundation models*, and *multimodal foundation models*.
 Further, we elaborate the foundation models in reasoning tasks, including *commonsense*, *mathematical*, *logical*, *causal*, *visual*, *audio*, *multimodal*, *embodied reasoning*, etc.
 Reasoning techniques are also summarized.
@@ -84,14 +85,13 @@ This repository is primarily based on the following paper:
 If you find this repository helpful, please consider citing:
 
 ```bibtex
-@misc{sun_zheng_xie_liu_chu_qiu_xu_ding_li_geng_et al._2023,
- title={A Survey of Reasoning with Foundation Models: Concepts, Methodologies, and Outlook},
- url={osf.io/ac4sp},
- DOI={10.31219/osf.io/ac4sp},
- publisher={OSF Preprints},
- author={Sun, Jiankai and Zheng, Chuanyang and Xie, Enze and Liu, Zhengying and Chu, Ruihang and Qiu, Jianing and Xu, Jiaqi and Ding, Mingyu and Li, Hongyang and Geng, Mengzhe and et al.},
- year={2023},
- month={Dec}
+@misc{sun2023survey,
+      title={A Survey of Reasoning with Foundation Models}, 
+      author={Jiankai Sun and Chuanyang Zheng and Enze Xie and Zhengying Liu and Ruihang Chu and Jianing Qiu and Jiaqi Xu and Mingyu Ding and Hongyang Li and Mengzhe Geng and Yue Wu and Wenhai Wang and Junsong Chen and Zhangyue Yin and Xiaozhe Ren and Jie Fu and Junxian He and Wu Yuan and Qi Liu and Xihui Liu and Yu Li and Hao Dong and Yu Cheng and Ming Zhang and Pheng Ann Heng and Jifeng Dai and Ping Luo and Jingdong Wang and Ji-Rong Wen and Xipeng Qiu and Yike Guo and Hui Xiong and Qun Liu and Zhenguo Li},
+      year={2023},
+      eprint={2312.11562},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI}
 }
 ```
 
