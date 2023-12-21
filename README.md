@@ -50,7 +50,7 @@ We welcome contributions to this repository to add more resources. Please submit
 
 This repository is primarily based on the following paper:
 
->[**A Survey of Reasoning with Foundation Models**](https://arxiv.org/abs/2312.11562) <br>
+>[**A Survey of Reasoning with Foundation Models: Concepts, Methodologies, and Outlook**](https://arxiv.org/abs/2312.11562) <br>
 >
 > [Jiankai Sun](),
 [Chuanyang Zheng](https://chuanyang-zheng.github.io/),
