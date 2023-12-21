@@ -6,7 +6,8 @@
 
 ![overview](assets/0_reasoning.jpg) 
 
-[PDF Link](https://arxiv.org/pdf/2312.11562.pdf) A curated list of awesome large AI models, or foundation models, for reasoning.
+[`Survey PDF`](https://arxiv.org/pdf/2312.11562.pdf) | 
+A curated list of awesome large AI models, or foundation models, for reasoning.
 We organize the current foundation models into three categories: *language foundation models*, *vision foundation models*, and *multimodal foundation models*.
 Further, we elaborate the foundation models in reasoning tasks, including *commonsense*, *mathematical*, *logical*, *causal*, *visual*, *audio*, *multimodal*, *embodied reasoning*, etc.
 Reasoning techniques are also summarized.
@@ -90,7 +91,7 @@ If you find this repository helpful, please consider citing:
 
 ```bibtex
 @misc{sun2023survey,
-      title={A Survey of Reasoning with Foundation Models}, 
+      title={A Survey of Reasoning with Foundation Models: Concepts, Methodologies, and Outlook},
       author={Jiankai Sun and Chuanyang Zheng and Enze Xie and Zhengying Liu and Ruihang Chu and Jianing Qiu and Jiaqi Xu and Mingyu Ding and Hongyang Li and Mengzhe Geng and Yue Wu and Wenhai Wang and Junsong Chen and Zhangyue Yin and Xiaozhe Ren and Jie Fu and Junxian He and Wu Yuan and Qi Liu and Xihui Liu and Yu Li and Hao Dong and Yu Cheng and Ming Zhang and Pheng Ann Heng and Jifeng Dai and Ping Luo and Jingdong Wang and Ji-Rong Wen and Xipeng Qiu and Yike Guo and Hui Xiong and Qun Liu and Zhenguo Li},
       year={2023},
       eprint={2312.11562},
