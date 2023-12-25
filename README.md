@@ -19,6 +19,9 @@ We welcome contributions to this repository to add more resources. Please submit
 
 ## Table of Contents
 
+<details open>
+<summary>table of contents</summary>
+
 - [0 Survey](#0-survey)
 - [1 Relevant Surveys](#1-relevant-surveys-and-links)
 - [2 Foundation Models](#2-foundation-models)
@@ -42,6 +45,8 @@ We welcome contributions to this repository to add more resources. Please submit
   - [4.4 Mixture of Experts (MoE)](#44-mixture-of-experts-moe)
   - [4.5 In-Context Learning](#45-in-context-learning)
   - [4.6 Autonomous Agent](#46-autonomous-agent)
+
+</details>
 
 
 ## 0 Survey
@@ -235,9 +240,9 @@ If you find this repository helpful, please consider citing:
 [[Code](https://github.com/google-research/bert)]
 [[Blog](https://blog.research.google/2018/11/open-sourcing-bert-state-of-art-pre.html)]
 
-</details>
-
 ---
+
+</details>
 
 <!--  -->
 ### 2.2 Vision Foundation Models
@@ -315,10 +320,9 @@ If you find this repository helpful, please consider citing:
 \-
 [[Paper](https://openreview.net/pdf?id=YicbFdNTTy)]
 
+---
 
 </details>
-
----
 
 <!--  -->
 ### 2.3 Multimodal Foundation Models
@@ -376,9 +380,9 @@ If you find this repository helpful, please consider citing:
 [[Code](https://github.com/openai/CLIP)]
 [[Blog](https://openai.com/research/clip)]
 
-</details>
-
 ---
+
+</details>
 
 <!--  -->
 ### 2.4 Reasoning Applications
@@ -416,9 +420,9 @@ If you find this repository helpful, please consider citing:
 [[Paper](https://aclanthology.org/P17-1015.pdf)]
 [[Code](https://github.com/google-deepmind/AQuA)]
 
-</details>
-
 ---
+
+</details>
 
 </details>
 
@@ -576,9 +580,9 @@ If you find this repository helpful, please consider citing:
 \-
 [[Paper](https://aclanthology.org/P02-1040.pdf)]
 
-</details>
-
 ---
+
+</details>
 
 <!--  -->
 ### 3.2 Mathematical Reasoning
@@ -902,9 +906,9 @@ Compiler from a Proof Assistant
 \-
 [[Paper](https://aclanthology.org/H90-1021.pdf)]
 
-</details>
-
 ---
+
+</details>
 
 <!--  -->
 ### 3.3 Logical Reasoning
@@ -999,9 +1003,9 @@ Language Models
 - `2020/12` | `ProofWriter` [ProofWriter: Generating Implications, Proofs, and Abductive Statements over Natural Language](https://arxiv.org/abs/2012.13048)
 \-
 
-</details>
-
 ---
+
+</details>
 
 <!--  -->
 ### 3.4 Causal Reasoning
@@ -1100,9 +1104,9 @@ Language Models
 - `2014/12` | `CauseEffectPairs` | [Distinguishing cause from effect using observational data: methods and benchmarks](https://arxiv.org/abs/1412.3773)
 \-
 
-</details>
-
 ---
+
+</details>
 
 <!--  -->
 ### 3.5 Visual Reasoning
@@ -1144,9 +1148,9 @@ Language Models
 - `2016/12` | `CLEVR` | [CLEVR: A Diagnostic Dataset for Compositional Language and Elementary Visual Reasoning](https://arxiv.org/abs/1612.06890)
 \-
 
-</details>
-
 ---
+
+</details>
 
 <!--  -->
 ### 3.6 Audio Reasoning
@@ -1225,9 +1229,9 @@ Language Models
 - `2019/12` | `Common Voice` | [Common Voice: A Massively-Multilingual Speech Corpus](https://arxiv.org/abs/1912.06670)
 \-
 
-</details>
-
 ---
+
+</details>
 
 <!--  -->
 ### 3.7 Multimodal Reasoning
@@ -1315,9 +1319,9 @@ Language Models
 - `2014/11` | `CIDEr` / `PASCAL-50S` / `ABSTRACT-50S` | [CIDEr: Consensus-based Image Description Evaluation](https://arxiv.org/abs/1411.5726)
 \-
 
-</details>
-
 ---
+
+</details>
 
 <!--  -->
 ### 3.8 Agent Reasoning
@@ -1493,9 +1497,9 @@ Language Models
 - `2018/06` | `VirtualHome` | [VirtualHome: Simulating Household Activities via Programs](https://arxiv.org/abs/1806.07011)
 \-
 
-</details>
-
 ---
+
+</details>
 
 <!--  -->
 ### 3.9 Other Tasks and Applications
@@ -1613,9 +1617,9 @@ Language Models
 - `2021/09` | `PlaTe` | [PlaTe: Visually-Grounded Planning with Transformers in Procedural Tasks](https://arxiv.org/abs/2109.04869)
 \-
 
-</details>
-
 ---
+
+</details>
 
 </details>
 
@@ -1829,9 +1833,9 @@ Language Models
 - `2021/10` | `S4` | [Efficiently Modeling Long Sequences with Structured State Spaces](https://arxiv.org/abs/2111.00396)
 \-
 
-</details>
-
 ---
+
+</details>
 
 <!--  -->
 ### 4.2 Fine-Tuning
@@ -1961,9 +1965,9 @@ Language Models
 - `2023/02` | `RepAdapter` | [Towards Efficient Visual Adaption via Structural Re-parameterization](https://arxiv.org/abs/2302.08106)
 \-
 
-</details>
-
 ---
+
+</details>
 
 <!--  -->
 ### 4.3 Alignment Training
@@ -2086,9 +2090,9 @@ Language Models
 - `2022/09` | `SLiC` | [Calibrating Sequence likelihood Improves Conditional Language Generation](https://arxiv.org/abs/2210.00045)
 \-
 
-</details>
-
 ---
+
+</details>
 
 <!--  -->
 ### 4.4 Mixture of Experts (MoE)
@@ -2127,9 +2131,9 @@ Language Models
 \-
 [[Paper](https://ieeexplore.ieee.org/document/6797059)]
 
-</details>
-
 ---
+
+</details>
 
 <!--  -->
 ### 4.5 In-Context Learning
@@ -2324,9 +2328,9 @@ Language Models
 - `2023/03` | `Self-Refine` | [Self-Refine: Iterative Refinement with Self-Feedback](https://arxiv.org/abs/2303.17651)
 \-
 
-</details>
-
 ---
+
+</details>
 
 <!--  -->
 ### 4.6 Autonomous Agent
@@ -2395,8 +2399,8 @@ Language Models
 - `2022/10` | `ReAct` | [ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/abs/2210.03629)
 \-
 
-</details>
-
 ---
+
+</details>
 
 </details>
