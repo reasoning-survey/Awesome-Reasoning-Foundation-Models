@@ -9,10 +9,10 @@
 [`Survey PDF`](https://arxiv.org/pdf/2312.11562.pdf) | 
 A curated list of awesome large AI models, or foundation models, for reasoning.
 We organize the current foundation models into three categories: *language foundation models*, *vision foundation models*, and *multimodal foundation models*.
-Further, we elaborate the foundation models in reasoning tasks, including *commonsense*, *mathematical*, *logical*, *causal*, *visual*, *audio*, *multimodal*, *embodied reasoning*, etc.
+Further, we elaborate the foundation models in reasoning tasks, including *commonsense*, *mathematical*, *logical*, *causal*, *visual*, *audio*, *multimodal*, *agent reasoning*, etc.
 Reasoning techniques are also summarized.
 
-We welcome contributions to this repository to add more resources. Please submit a pull request if you want to contribute!
+We welcome contributions to this repository to add more resources. Please submit a pull request if you want to contribute! See [CONTRIBUTING](CONTRIBUTING.md).
 
 <!-- ## News -->
 
@@ -33,7 +33,7 @@ We welcome contributions to this repository to add more resources. Please submit
   - [3.5 Visual Reasoning](#35-visual-reasoning)
   - [3.6 Audio Reasoning](#36-audio-reasoning)
   - [3.7 Multimodal Reasoning](#37-multimodal-reasoning)
-  - [3.8 Embodied Reasoning](#38-embodied-reasoning)
+  - [3.8 Agent Reasoning](#38-agent-reasoning)
   - [3.9 Other Tasks and Applications](#39-other-tasks-and-applications)
 - [4 Reasoning Techniques](#4-reasoning-techniques)
   - [4.1 Pre-Training](#41-pre-training)
@@ -111,6 +111,7 @@ If you find this repository helpful, please consider citing:
 - Multimodal Foundation Models: From Specialists to General-Purpose Assistants
 \-
 [[arXiv](https://arxiv.org/abs/2309.10020)]
+[[Tutorial](https://vlp-tutorial.github.io/2023/)]
 
 - A Survey on Multimodal Large Language Models
 \-
@@ -160,6 +161,9 @@ If you find this repository helpful, please consider citing:
 ![foundation_models](assets/22_foundation_models.jpg)
 
 ### 2.1 Language Foundation Models
+
+<details open>
+<summary>LFMs</summary>
 
 - `2023/07` | `Llama 2` | [Llama 2: Open Foundation and Fine-Tuned Chat Models](https://arxiv.org/abs/2307.09288)
 \-
@@ -223,8 +227,15 @@ If you find this repository helpful, please consider citing:
 [[Code](https://github.com/google-research/bert)]
 [[Blog](https://blog.research.google/2018/11/open-sourcing-bert-state-of-art-pre.html)]
 
+</details>
+
+---
+
 <!--  -->
 ### 2.2 Vision Foundation Models
+
+<details open>
+<summary>VFMs</summary>
 
 - `2023/05` | `SAA+` | [Segment Any Anomaly without Training via Hybrid Prompt Regularization](https://arxiv.org/abs/2305.10724)
 \-
@@ -296,8 +307,16 @@ If you find this repository helpful, please consider citing:
 \-
 [[Paper](https://openreview.net/pdf?id=YicbFdNTTy)]
 
+
+</details>
+
+---
+
 <!--  -->
 ### 2.3 Multimodal Foundation Models
+
+<details open>
+<summary>MFMs</summary>
 
 - `2023/05` | `Caption Anything` | [Caption Anything: Interactive Image Description with Diverse Multimodal Controls](https://arxiv.org/abs/2305.02677)
 \-
@@ -349,8 +368,15 @@ If you find this repository helpful, please consider citing:
 [[Code](https://github.com/openai/CLIP)]
 [[Blog](https://openai.com/research/clip)]
 
+</details>
+
+---
+
 <!--  -->
 ### 2.4 Reasoning Applications
+
+<details open>
+<summary>reasoning applications</summary>
 
 - `2022/06` | `Minerva` | [Solving Quantitative Reasoning Problems with Language Models](https://arxiv.org/abs/2206.14858)
 \-
@@ -382,10 +408,16 @@ If you find this repository helpful, please consider citing:
 [[Paper](https://aclanthology.org/P17-1015.pdf)]
 [[Code](https://github.com/google-deepmind/AQuA)]
 
+</details>
+
+
 ## 3 Reasoning Tasks
 
 <!--  -->
 ### 3.1 Commonsense Reasoning
+
+<details open>
+<summary>commonsense reasoning</summary>
 
 - `2023/05` | `LLM-MCTS` | [Large Language Models as Commonsense Knowledge for Large-Scale Task Planning](https://arxiv.org/abs/2305.14078)
 \-
@@ -481,7 +513,7 @@ If you find this repository helpful, please consider citing:
 [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Hudson_GQA_A_New_Dataset_for_Real-World_Visual_Reasoning_and_Compositional_CVPR_2019_paper.pdf)]
 [[Project](https://cs.stanford.edu/people/dorarad/gqa/index.html)]
 
-#### Benchmarks, Datasets, and Metrics
+#### 3.1.x Benchmarks, Datasets, and Metrics
 
 - `2023/06` | `CConS` | [Probing Physical Reasoning with Counter-Commonsense Context](https://arxiv.org/abs/2306.02258)
 \-
@@ -530,8 +562,15 @@ If you find this repository helpful, please consider citing:
 \-
 [[Paper](https://aclanthology.org/P02-1040.pdf)]
 
+</details>
+
+---
+
 <!--  -->
 ### 3.2 Mathematical Reasoning
+
+<details open>
+<summary>mathematical reasoning</summary>
 
 - `2022/11` | Tokenization in the Theory of Knowledge
 \-
@@ -696,7 +735,7 @@ Compiler from a Proof Assistant
 \-
 [[Book](https://www.intechopen.com/books/654)]
 
-#### Benchmarks, Datasets, and Metrics
+#### 3.2.x Benchmarks, Datasets, and Metrics
 
 - `2023/08` | `Math23K-F` / `MAWPS-F` / `FOMAS` | [Guiding Mathematical Reasoning via Mastering Commonsense Formula Knowledge](https://dl.acm.org/doi/abs/10.1145/3580305.3599375)
 \-
@@ -849,8 +888,15 @@ Compiler from a Proof Assistant
 \-
 [[Paper](https://aclanthology.org/H90-1021.pdf)]
 
+</details>
+
+---
+
 <!--  -->
 ### 3.3 Logical Reasoning
+
+<details open>
+<summary>logical reasoning</summary>
 
 - `2023/10` | `LogiGLUE` | [Towards LogiGLUE: A Brief Survey and A Benchmark for Analyzing Logical Reasoning Capabilities of Language Models](https://arxiv.org/abs/2310.00836)
 \-
@@ -928,7 +974,7 @@ Language Models
 \-
 [[Paper](https://link.springer.com/referenceworkentry/10.1007/978-0-387-30164-8_786)]
 
-#### Benchmarks, Datasets, and Metrics
+#### 3.3.x Benchmarks, Datasets, and Metrics
 
 - `2022/10` | `PrOntoQA` | [Language Models Are Greedy Reasoners: A Systematic Formal Analysis of Chain-of-Thought](https://arxiv.org/abs/2210.01240)
 \-
@@ -939,8 +985,15 @@ Language Models
 - `2020/12` | `ProofWriter` [ProofWriter: Generating Implications, Proofs, and Abductive Statements over Natural Language](https://arxiv.org/abs/2012.13048)
 \-
 
+</details>
+
+---
+
 <!--  -->
 ### 3.4 Causal Reasoning
+
+<details open>
+<summary>causal reasoning</summary>
 
 - `2023/08` | [Causal Parrots: Large Language Models May Talk Causality But Are Not Causal](https://arxiv.org/abs/2308.13067)
 
@@ -1021,7 +1074,7 @@ Language Models
 \-
 [[Paper](https://psycnet.apa.org/record/1986-21899-001)]
 
-#### Benchmarks, Datasets, and Metrics
+#### 3.4.x Benchmarks, Datasets, and Metrics
 
 - `2021/12` | `CRASS` | [CRASS: A Novel Data Set and Benchmark to Test Counterfactual Reasoning of Large Language Models](https://arxiv.org/abs/2112.11941)
 \-
@@ -1033,8 +1086,15 @@ Language Models
 - `2014/12` | `CauseEffectPairs` | [Distinguishing cause from effect using observational data: methods and benchmarks](https://arxiv.org/abs/1412.3773)
 \-
 
+</details>
+
+---
+
 <!--  -->
 ### 3.5 Visual Reasoning
+
+<details open>
+<summary>visual reasoning</summary>
 
 - `2022/11` | `G-VUE` | [Perceive, Ground, Reason, and Act: A Benchmark for General-purpose Visual Representation](https://arxiv.org/abs/2211.15402)
 \-
@@ -1059,7 +1119,7 @@ Language Models
 - `2022/10` | `SQA3D` | [SQA3D: Situated Question Answering in 3D Scenes](https://arxiv.org/abs/2210.07474)
 \-
 
-#### Benchmarks, Datasets, and Metrics
+#### 3.5.x Benchmarks, Datasets, and Metrics
 
 - `2021/12` | `PTR` | [PTR: A Benchmark for Part-based Conceptual, Relational, and Physical Reasoning](https://arxiv.org/abs/2112.05136)
 \-
@@ -1070,8 +1130,15 @@ Language Models
 - `2016/12` | `CLEVR` | [CLEVR: A Diagnostic Dataset for Compositional Language and Elementary Visual Reasoning](https://arxiv.org/abs/1612.06890)
 \-
 
+</details>
+
+---
+
 <!--  -->
 ### 3.6 Audio Reasoning
+
+<details open>
+<summary>audio reasoning</summary>
 
 - `2022/05` | [Self-Supervised Speech Representation Learning: A Review](https://arxiv.org/abs/2205.10643)
 \-
@@ -1121,7 +1188,7 @@ Language Models
 - `2017/08` | [Large-Scale Domain Adaptation via Teacher-Student Learning](https://arxiv.org/abs/1708.05466)
 \-
 
-#### Benchmarks, Datasets, and Metrics
+#### 3.6.x Benchmarks, Datasets, and Metrics
 
 - `2022/03` | `SUPERB-SG` | [SUPERB-SG: Enhanced Speech processing Universal PERformance Benchmark for Semantic and Generative Capabilities](https://arxiv.org/abs/2203.06849)
 \-
@@ -1144,8 +1211,15 @@ Language Models
 - `2019/12` | `Common Voice` | [Common Voice: A Massively-Multilingual Speech Corpus](https://arxiv.org/abs/1912.06670)
 \-
 
+</details>
+
+---
+
 <!--  -->
 ### 3.7 Multimodal Reasoning
+
+<details open>
+<summary>multimodal reasoning</summary>
 
 #### 3.7.1 Alignment
 
@@ -1199,7 +1273,7 @@ Language Models
 - `2022/12` | `MatCha` | [MatCha: Enhancing Visual Language Pretraining with Math Reasoning and Chart Derendering](https://arxiv.org/abs/2212.09662)
 \-
 
-#### Benchmarks, Datasets, and Metrics
+#### 3.7.x Benchmarks, Datasets, and Metrics
 
 - `2023/06` | `LVLM-eHub` | [LVLM-eHub: A Comprehensive Evaluation Benchmark for Large Vision-Language Models](https://arxiv.org/abs/2306.09265)
 \-
@@ -1227,8 +1301,15 @@ Language Models
 - `2014/11` | `CIDEr` / `PASCAL-50S` / `ABSTRACT-50S` | [CIDEr: Consensus-based Image Description Evaluation](https://arxiv.org/abs/1411.5726)
 \-
 
+</details>
+
+---
+
 <!--  -->
-### 3.8 Embodied Reasoning
+### 3.8 Agent Reasoning
+
+<details open>
+<summary>agent reasoning</summary>
 
 - `2023/11` | `OpenFlamingo` | [Vision-Language Foundation Models as Effective Robot Imitators](https://arxiv.org/abs/2311.01378)
 \-
@@ -1360,7 +1441,7 @@ Language Models
 \-
 [[Paper](https://www.sciencedirect.com/science/article/pii/S2666675821001041)]
 
-#### Benchmarks, Datasets, and Metrics
+#### 3.8.x Benchmarks, Datasets, and Metrics
 
 - `2023/09` | `NuPrompt` / `PromptTrack` | [Language Prompt for Autonomous Driving](https://arxiv.org/abs/2309.04379)
 \-
@@ -1398,8 +1479,15 @@ Language Models
 - `2018/06` | `VirtualHome` | [VirtualHome: Simulating Household Activities via Programs](https://arxiv.org/abs/1806.07011)
 \-
 
+</details>
+
+---
+
 <!--  -->
 ### 3.9 Other Tasks and Applications
+
+<details open>
+<summary>other tasks and applications</summary>
 
 #### 3.9.1 Theory of Mind (ToM)
 
@@ -1511,10 +1599,16 @@ Language Models
 - `2021/09` | `PlaTe` | [PlaTe: Visually-Grounded Planning with Transformers in Procedural Tasks](https://arxiv.org/abs/2109.04869)
 \-
 
+</details>
+
+
 ## 4 Reasoning Techniques
 
 <!--  -->
 ### 4.1 Pre-Training
+
+<details open>
+<summary>pre-training</summary>
 
 #### 4.1.1 Data
 
@@ -1714,8 +1808,15 @@ Language Models
 - `2021/10` | `S4` | [Efficiently Modeling Long Sequences with Structured State Spaces](https://arxiv.org/abs/2111.00396)
 \-
 
+</details>
+
+---
+
 <!--  -->
 ### 4.2 Fine-Tuning
+
+<details open>
+<summary>fine-tuning</summary>
 
 #### 4.2.1 Data
 
@@ -1839,8 +1940,15 @@ Language Models
 - `2023/02` | `RepAdapter` | [Towards Efficient Visual Adaption via Structural Re-parameterization](https://arxiv.org/abs/2302.08106)
 \-
 
+</details>
+
+---
+
 <!--  -->
 ### 4.3 Alignment Training
+
+<details open>
+<summary>alignment training</summary>
 
 #### 4.3.1 Data
 
@@ -1957,8 +2065,15 @@ Language Models
 - `2022/09` | `SLiC` | [Calibrating Sequence likelihood Improves Conditional Language Generation](https://arxiv.org/abs/2210.00045)
 \-
 
+</details>
+
+---
+
 <!--  -->
 ### 4.4 Mixture of Experts (MoE)
+
+<details open>
+<summary>mixture of experts</summary>
 
 - `2023/06` | [An Efficient General-Purpose Modular Vision Model via Multi-Task Heterogeneous Training](https://arxiv.org/abs/2306.17165)
 \-
@@ -1991,8 +2106,15 @@ Language Models
 \-
 [[Paper](https://ieeexplore.ieee.org/document/6797059)]
 
+</details>
+
+---
+
 <!--  -->
 ### 4.5 In-Context Learning
+
+<details open>
+<summary>in-context learning</summary>
 
 - `2022/10` | `FLAN-T5` | [Scaling Instruction-Finetuned Language Models](https://arxiv.org/abs/2210.11416)
 \-
@@ -2181,8 +2303,15 @@ Language Models
 - `2023/03` | `Self-Refine` | [Self-Refine: Iterative Refinement with Self-Feedback](https://arxiv.org/abs/2303.17651)
 \-
 
+</details>
+
+---
+
 <!--  -->
 ### 4.6 Autonomous Agent
+
+<details open>
+<summary>autonomous agent</summary>
 
 - `2023/10` | `planning tokens` | [Guiding Language Model Reasoning with Planning Tokens](https://aps.arxiv.org/abs/2310.05707)
 \-
@@ -2244,3 +2373,5 @@ Language Models
 
 - `2022/10` | `ReAct` | [ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/abs/2210.03629)
 \-
+
+</details>
