@@ -103,6 +103,9 @@ If you find this repository helpful, please consider citing:
 
 ## 1 Relevant Surveys and Links
 
+<details open>
+<summary>relevant surveys</summary>
+
 - The Rise and Potential of Large Language Model Based Agents: A Survey
 \-
 [[arXiv](https://arxiv.org/abs/2309.07864)]
@@ -155,8 +158,13 @@ If you find this repository helpful, please consider citing:
 \-
 [[Link](https://github.com/atfortes/Awesome-Multimodal-Reasoning)]
 
+</details>
+
 
 ## 2 Foundation Models
+
+<details open>
+<summary>foundation models</summary>
 
 ![foundation_models](assets/22_foundation_models.jpg)
 
@@ -412,7 +420,12 @@ If you find this repository helpful, please consider citing:
 
 ---
 
+</details>
+
 ## 3 Reasoning Tasks
+
+<details open>
+<summary>reasoning tasks</summary>
 
 <!--  -->
 ### 3.1 Commonsense Reasoning
@@ -1604,8 +1617,13 @@ Language Models
 
 ---
 
+</details>
+
 
 ## 4 Reasoning Techniques
+
+<details open>
+<summary>reasoning techniques</summary>
 
 <!--  -->
 ### 4.1 Pre-Training
@@ -2376,5 +2394,9 @@ Language Models
 
 - `2022/10` | `ReAct` | [ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/abs/2210.03629)
 \-
+
+</details>
+
+---
 
 </details>
