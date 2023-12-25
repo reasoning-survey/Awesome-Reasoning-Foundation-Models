@@ -7,7 +7,8 @@
 ![overview](assets/0_reasoning.jpg) 
 
 [`survey.pdf`](https://arxiv.org/pdf/2312.11562.pdf) |
-A curated list of awesome large AI models, or foundation models, for reasoning.
+A curated list of awesome **large AI models**, or **foundation models**, for **reasoning**.
+
 We organize the current [foundation models](#2-foundation-models) into three categories: *language foundation models*, *vision foundation models*, and *multimodal foundation models*.
 Further, we elaborate the foundation models in [reasoning tasks](#3-reasoning-tasks), including *commonsense*, *mathematical*, *logical*, *causal*, *visual*, *audio*, *multimodal*, *agent reasoning*, etc.
 [Reasoning techniques](#4-reasoning-techniques), including *pre-training*, *fine-tuning*, *alignment training*, *mixture of experts*, *in-context learning*, and *autonomous agent*, are also summarized.
