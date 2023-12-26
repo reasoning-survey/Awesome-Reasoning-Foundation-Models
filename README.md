@@ -96,13 +96,11 @@ This repository is primarily based on the following paper:
 If you find this repository helpful, please consider citing:
 
 ```bibtex
-@misc{sun2023survey,
-      title={A Survey of Reasoning with Foundation Models: Concepts, Methodologies, and Outlook},
-      author={Jiankai Sun and Chuanyang Zheng and Enze Xie and Zhengying Liu and Ruihang Chu and Jianing Qiu and Jiaqi Xu and Mingyu Ding and Hongyang Li and Mengzhe Geng and Yue Wu and Wenhai Wang and Junsong Chen and Zhangyue Yin and Xiaozhe Ren and Jie Fu and Junxian He and Wu Yuan and Qi Liu and Xihui Liu and Yu Li and Hao Dong and Yu Cheng and Ming Zhang and Pheng Ann Heng and Jifeng Dai and Ping Luo and Jingdong Wang and Ji-Rong Wen and Xipeng Qiu and Yike Guo and Hui Xiong and Qun Liu and Zhenguo Li},
-      year={2023},
-      eprint={2312.11562},
-      archivePrefix={arXiv},
-      primaryClass={cs.AI}
+@article{sun2023survey,
+  title={A Survey of Reasoning with Foundation Models},
+  author={Sun, Jiankai and Zheng, Chuanyang and Xie, Enze and Liu, Zhengying and Chu, Ruihang and Qiu, Jianing and Xu, Jiaqi and Ding, Mingyu and Li, Hongyang and Geng, Mengzhe and others},
+  journal={arXiv preprint arXiv:2312.11562},
+  year={2023}
 }
 ```
 
@@ -178,6 +176,15 @@ If you find this repository helpful, please consider citing:
 
 <details open>
 <summary>LFMs</summary>
+
+- `2023/12` | `Gemini` | [Gemini: A Family of Highly Capable Multimodal Models](https://arxiv.org/abs/2312.11805)
+\-
+[[Paper](https://arxiv.org/pdf/2312.11805.pdf)]
+
+- `2023/10` | `Mistral` | [Mistral 7B](https://arxiv.org/abs/2310.06825)
+\-
+[[Paper](https://arxiv.org/pdf/2310.06825.pdf)]
+[[Code](https://github.com/mistralai/mistral-src?tab=readme-ov-file)]
 
 - `2023/07` | `Llama 2` | [Llama 2: Open Foundation and Fine-Tuned Chat Models](https://arxiv.org/abs/2307.09288)
 \-
