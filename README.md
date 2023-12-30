@@ -1500,6 +1500,11 @@ Language Models
 [[Paper](https://arxiv.org/pdf/2312.14150.pdf)]
 [[Code](https://github.com/OpenDriveLab/DriveLM)]
 
+- `2023/12` | `LiDAR-LLM` | [LiDAR-LLM: Exploring the Potential of Large Language Models for 3D LiDAR Understanding](https://arxiv.org/abs/2312.14074)
+\-
+[[Paper](https://arxiv.org/pdf/2312.14074.pdf)]
+[[Project](https://sites.google.com/view/lidar-llm)]
+
 - `2023/12` | `DriveMLM` | [DriveMLM: Aligning Multi-Modal Large Language Models with Behavioral Planning States for Autonomous Driving](https://arxiv.org/abs/2312.09245)
 \-
 [[Paper](https://arxiv.org/pdf/2312.09245.pdf)]
