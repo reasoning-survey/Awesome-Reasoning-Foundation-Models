@@ -361,7 +361,12 @@ If you find this repository helpful, please consider citing:
 [[Paper](https://arxiv.org/pdf/2312.11805.pdf)]
 [[Project](https://deepmind.google/technologies/gemini/#introduction)]
 
-- `2023/09` | `GPT-4V` | GPT-4V(ision)
+- `2023/10` | `LLaVA-1.5` | [Improved Baselines with Visual Instruction Tuning](https://arxiv.org/abs/2310.03744)
+\-
+[[Paper](https://arxiv.org/pdf/2310.03744.pdf)]
+[[Project](https://llava-vl.github.io)]
+
+- `2023/09` | `GPT-4V` | GPT-4V(ision) System Card
 \-
 [[Paper](https://cdn.openai.com/papers/GPTV_System_Card.pdf)]
 [[Blog](https://openai.com/research/gpt-4v-system-card)]
@@ -390,6 +395,9 @@ If you find this repository helpful, please consider citing:
 
 - `2023/04` | `LLaVA` | [Visual Instruction Tuning](https://arxiv.org/abs/2304.08485)
 \-
+[[Paper](https://openreview.net/pdf?id=w0H2xGHlkw)]
+[[Code](https://github.com/haotian-liu/LLaVA)]
+[[Project](https://llava-vl.github.io)]
 
 - `2023/04` | `CLIP Surgery` | [CLIP Surgery for Better Explainability with Enhancement in Open-Vocabulary Tasks](https://arxiv.org/abs/2304.05653)
 \-
@@ -404,11 +412,18 @@ If you find this repository helpful, please consider citing:
 [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Tao_GALIP_Generative_Adversarial_CLIPs_for_Text-to-Image_Synthesis_CVPR_2023_paper.pdf)]
 [[Code](https://github.com/tobran/GALIP)]
 
+- `2023/01` | `BLIP-2` | [BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models](https://arxiv.org/abs/2301.12597)
+\-
+[[Paper](https://proceedings.mlr.press/v202/li23q.html)]
+[[Code](https://github.com/salesforce/LAVIS/tree/main/projects/blip2)]
+
 - `2022/12` | `Img2Prompt` | [From Images to Textual Prompts: Zero-shot VQA with Frozen Large Language Models](https://arxiv.org/abs/2212.10846)
 \-
 
 - `2022/01` | `BLIP` | [BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation](https://arxiv.org/abs/2201.12086)
 \-
+[[Paper](https://proceedings.mlr.press/v162/li22n.html)]
+[[Code](https://github.com/salesforce/BLIP)]
 
 - `2021/09` | `CoOp` | [Learning to Prompt for Vision-Language Models](https://arxiv.org/abs/2109.01134)
 \-
@@ -1284,6 +1299,8 @@ Language Models
 
 - `2023/01` | `BLIP-2` | [BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models](https://arxiv.org/abs/2301.12597)
 \-
+[[Paper](https://proceedings.mlr.press/v202/li23q.html)]
+[[Code](https://github.com/salesforce/LAVIS/tree/main/projects/blip2)]
 
 #### 3.7.2 Generation
 
@@ -1318,6 +1335,8 @@ Language Models
 
 - `2023/09` | `Q-Bench` | [Q-Bench: A Benchmark for General-Purpose Foundation Models on Low-level Vision](https://arxiv.org/abs/2309.14181)
 \-
+[[Paper](https://arxiv.org/pdf/2309.14181.pdf)]
+[[Code](https://github.com/Q-Future/Q-Bench)]
 
 - `2023/05` | `DetGPT` | [DetGPT: Detect What You Need via Reasoning](https://arxiv.org/abs/2305.14167)
 \-
