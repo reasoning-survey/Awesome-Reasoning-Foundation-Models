@@ -177,14 +177,16 @@ If you find this repository helpful, please consider citing:
 <details open>
 <summary>LFMs</summary>
 
-- `2023/12` | `Gemini` | [Gemini: A Family of Highly Capable Multimodal Models](https://arxiv.org/abs/2312.11805)
-\-
-[[Paper](https://arxiv.org/pdf/2312.11805.pdf)]
-
 - `2023/10` | `Mistral` | [Mistral 7B](https://arxiv.org/abs/2310.06825)
 \-
 [[Paper](https://arxiv.org/pdf/2310.06825.pdf)]
 [[Code](https://github.com/mistralai/mistral-src?tab=readme-ov-file)]
+
+- `2023/09` | `Qwen` | [Qwen Technical Report](https://arxiv.org/abs/2309.16609)
+\-
+[[Paper](https://arxiv.org/pdf/2309.16609.pdf)]
+[[Code](https://github.com/QwenLM/Qwen)]
+[[Project](https://tongyi.aliyun.com/qianwen/)]
 
 - `2023/07` | `Llama 2` | [Llama 2: Open Foundation and Fine-Tuned Chat Models](https://arxiv.org/abs/2307.09288)
 \-
@@ -192,12 +194,23 @@ If you find this repository helpful, please consider citing:
 [[Code](https://github.com/facebookresearch/llama)]
 [[Blog](https://ai.meta.com/llama/)]
 
+- `2023/07` | `InternLM` | InternLM: A Multilingual Language Model with Progressively Enhanced Capabilities
+\-
+[[Paper](https://github.com/InternLM/InternLM-techreport/blob/main/InternLM.pdf)]
+[[Code](https://github.com/InternLM/InternLM)]
+[[Project](https://internlm.intern-ai.org.cn)]
+
 - `2023/05` | `PaLM 2` | [PaLM 2 Technical Report](https://arxiv.org/abs/2305.10403)
 \-
 
 - `2023/03` | `PanGu-Σ` | [PanGu-Σ: Towards Trillion Parameter Language Model with Sparse Heterogeneous Computing](https://arxiv.org/pdf/2303.10845.pdf)
 \-
 [[Paper](https://arxiv.org/abs/2303.10845)]
+
+- `2023/03` | `Vicuna` | Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90%* ChatGPT Quality
+\-
+[[Blog](https://lmsys.org/blog/2023-03-30-vicuna/)]
+[[Code](https://github.com/lm-sys/FastChat)]
 
 - `2023/03` | `GPT-4` | [GPT-4 Technical Report](https://arxiv.org/abs/2303.08774)
 \-
@@ -337,6 +350,26 @@ If you find this repository helpful, please consider citing:
 
 <details open>
 <summary>MFMs</summary>
+
+- `2023/12` | `InternVL` | [InternVL: Scaling up Vision Foundation Models and Aligning for Generic Visual-Linguistic Tasks](https://arxiv.org/abs/2312.14238)
+\-
+[[Paper](https://arxiv.org/pdf/2312.14238.pdf)]
+[[Code](https://github.com/OpenGVLab/InternVL)]
+
+- `2023/12` | `Gemini` | [Gemini: A Family of Highly Capable Multimodal Models](https://arxiv.org/abs/2312.11805)
+\-
+[[Paper](https://arxiv.org/pdf/2312.11805.pdf)]
+[[Project](https://deepmind.google/technologies/gemini/#introduction)]
+
+- `2023/09` | `GPT-4V` | GPT-4V(ision)
+\-
+[[Paper](https://cdn.openai.com/papers/GPTV_System_Card.pdf)]
+[[Blog](https://openai.com/research/gpt-4v-system-card)]
+
+- `2023/08` | `Qwen-VL` | [Qwen-VL: A Versatile Vision-Language Model for Understanding, Localization, Text Reading, and Beyond](https://arxiv.org/abs/2308.12966)
+\-
+[[Paper](https://arxiv.org/pdf/2308.12966.pdf)]
+[[Code](https://github.com/QwenLM/Qwen-VL)]
 
 - `2023/05` | `Caption Anything` | [Caption Anything: Interactive Image Description with Diverse Multimodal Controls](https://arxiv.org/abs/2305.02677)
 \-
@@ -1292,6 +1325,7 @@ Language Models
 - `2023/03` | `Vicuna` | Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90%* ChatGPT Quality
 \-
 [[Blog](https://lmsys.org/blog/2023-03-30-vicuna/)]
+[[Code](https://github.com/lm-sys/FastChat)]
 
 - `2022/12` | `DePlot` | [DePlot: One-shot visual language reasoning by plot-to-table translation](https://arxiv.org/abs/2212.10505)
 \-
