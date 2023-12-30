@@ -1495,6 +1495,21 @@ Language Models
 
 #### 3.8.4 Driving Reasoning
 
+- `2023/12` | `DriveLM` | [DriveLM: Driving with Graph Visual Question Answering](https://arxiv.org/abs/2312.14150)
+\-
+[[Paper](https://arxiv.org/pdf/2312.14150.pdf)]
+[[Code](https://github.com/OpenDriveLab/DriveLM)]
+
+- `2023/12` | `DriveMLM` | [DriveMLM: Aligning Multi-Modal Large Language Models with Behavioral Planning States for Autonomous Driving](https://arxiv.org/abs/2312.09245)
+\-
+[[Paper](https://arxiv.org/pdf/2312.09245.pdf)]
+[[Code](https://github.com/OpenGVLab/DriveMLM)]
+
+- `2023/12` | `LMDrive` | [LMDrive: Closed-Loop End-to-End Driving with Large Language Models](https://arxiv.org/abs/2312.07488)
+\-
+[[Paper](https://arxiv.org/pdf/2312.07488.pdf)]
+[[Code](https://github.com/opendilab/LMDrive)]
+
 - `2023/10` | [Driving through the Concept Gridlock: Unraveling Explainability Bottlenecks in Automated Driving](https://arxiv.org/abs/2310.16639)
 \-
 
@@ -1522,12 +1537,13 @@ Language Models
 
 #### 3.8.x Benchmarks, Datasets, and Metrics
 
+- `2023/12` | `DriveLM` | [DriveLM: Driving with Graph Visual Question Answering](https://arxiv.org/abs/2312.14150)
+\-
+[[Paper](https://arxiv.org/pdf/2312.14150.pdf)]
+[[Code](https://github.com/OpenDriveLab/DriveLM)]
+
 - `2023/09` | `NuPrompt` / `PromptTrack` | [Language Prompt for Autonomous Driving](https://arxiv.org/abs/2309.04379)
 \-
-
-- `2023/08` | `DriveLM` | Drive on Language: Unlocking the future where autonomous driving meets the unlimited potential of language
-\-
-[[Code](https://github.com/OpenDriveLab/DriveLM)]
 
 - `2023/07` | `LCTGen` | [Language Conditioned Traffic Generation](https://arxiv.org/abs/2307.07947)
 
