@@ -1649,6 +1649,11 @@ Language Models
 - `2023/07` | `Med-PaLM M`| [Towards Generalist Biomedical AI](https://arxiv.org/abs/2307.14334)
 \-
 
+- `2023/06` | `Endo-FM` | [Foundation Model for Endoscopy Video Analysis via Large-scale Self-supervised Pre-train](https://arxiv.org/abs/2306.16741)
+\-
+[[Paper](https://link.springer.com/chapter/10.1007/978-3-031-43996-4_10)]
+[[Code](https://github.com/med-air/Endo-FM)]
+
 - `2023/06` | `LLaVA-Med` | [LLaVA-Med: Training a Large Language-and-Vision Assistant for Biomedicine in One Day](https://arxiv.org/abs/2306.00890)
 \-
 
