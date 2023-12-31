@@ -978,9 +978,6 @@ Compiler from a Proof Assistant
 - `2023/05` | `Logic-LM` | [Logic-LM: Empowering Large Language Models with Symbolic Solvers for Faithful Logical Reasoning](https://arxiv.org/abs/2305.12295)
 \-
 
-- `2023/05` | `LogicLLM` | [LogicLLM: Exploring Self-supervised Logic-enhanced Training for Large Language Models](https://arxiv.org/abs/2305.13718)
-\-
-
 - `2023/03` | `LEAP` | [Explicit Planning Helps Language Models in Logical Reasoning](https://arxiv.org/abs/2303.15714)
 \-
 
@@ -1006,9 +1003,6 @@ Compiler from a Proof Assistant
 - `2022/05` | `SI` | [Selection-Inference: Exploiting Large Language Models for Interpretable Logical Reasoning](https://arxiv.org/abs/2205.09712)
 \-
 
-- `2022/05` | `MERIt` | [MERIt: Meta-Path Guided Contrastive Learning for Logical Reasoning](https://aclanthology.org/2022.findings-acl.276/)
-\-
-
 - `2022/03` | [Self-Consistency Improves Chain of Thought Reasoning in Language Models](https://arxiv.org/abs/2203.11171)
 \-
 
@@ -1023,9 +1017,6 @@ Compiler from a Proof Assistant
 - `2021/08` | `GABL` | [Abductive Learning with Ground Knowledge Base](https://www.ijcai.org/proceedings/2021/250)
 \-
 [[Paper](https://www.ijcai.org/proceedings/2021/0250.pdf)]
-
-- `2021/05` | `LReasoner` | [Logic-Driven Context Extension and Data Augmentation for Logical Reasoning of Text](https://arxiv.org/abs/2105.03659)
-\-
 
 - `2020/02` | `RuleTakers` | [Transformers as Soft Reasoners over Language](https://arxiv.org/abs/2002.05867)
 \-
