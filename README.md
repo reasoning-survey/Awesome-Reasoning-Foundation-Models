@@ -975,13 +975,13 @@ Compiler from a Proof Assistant
 - `2023/10` | `LogiGLUE` | [Towards LogiGLUE: A Brief Survey and A Benchmark for Analyzing Logical Reasoning Capabilities of Language Models](https://arxiv.org/abs/2310.00836)
 \-
 
+- `2023/05` | `LogicLLM` | [LogicLLM: Exploring Self-supervised Logic-enhanced Training for Large Language Models](https://arxiv.org/abs/2305.13718)
+\-
+
 - `2023/05` | `Logic-LM` | [Logic-LM: Empowering Large Language Models with Symbolic Solvers for Faithful Logical Reasoning](https://arxiv.org/abs/2305.12295)
 \-
 
 - `2023/03` | `LEAP` | [Explicit Planning Helps Language Models in Logical Reasoning](https://arxiv.org/abs/2303.15714)
-\-
-
-- `2023/05` | `LogicLLM` | [LogicLLM: Exploring Self-supervised Logic-enhanced Training for Large Language Models](https://arxiv.org/abs/2305.13718)
 \-
 
 - `2023/03` | [Sparks of Artificial General Intelligence: Early experiments with GPT-4](https://arxiv.org/abs/2303.12712)
