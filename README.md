@@ -376,6 +376,11 @@ If you find this repository helpful, please consider citing:
 [[Paper](https://arxiv.org/pdf/2308.12966.pdf)]
 [[Code](https://github.com/QwenLM/Qwen-VL)]
 
+- `2023/05` | `InstructBLIP` | [InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning](https://arxiv.org/abs/2305.06500)
+\-
+[[Paper](https://openreview.net/pdf?id=vvoWPYqZJA)]
+[[Code](https://github.com/salesforce/LAVIS/tree/main/projects/instructblip)]
+
 - `2023/05` | `Caption Anything` | [Caption Anything: Interactive Image Description with Diverse Multimodal Controls](https://arxiv.org/abs/2305.02677)
 \-
 [[Paper](https://arxiv.org/pdf/2305.02677.pdf)]
@@ -419,6 +424,10 @@ If you find this repository helpful, please consider citing:
 
 - `2022/12` | `Img2Prompt` | [From Images to Textual Prompts: Zero-shot VQA with Frozen Large Language Models](https://arxiv.org/abs/2212.10846)
 \-
+
+- `2022/05` | `CoCa` | [CoCa: Contrastive Captioners are Image-Text Foundation Models](https://arxiv.org/abs/2205.01917)
+\-
+[[Paper](https://openreview.net/forum?id=Ee277P3AYC)]
 
 - `2022/01` | `BLIP` | [BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation](https://arxiv.org/abs/2201.12086)
 \-
