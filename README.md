@@ -1237,7 +1237,7 @@ Language Models
 [[Paper](https://arxiv.org/pdf/2311.11255.pdf)]
 [[Code](https://github.com/crypto-code/M2UGen)]
 
-- `2023/08` | `MU-LLaMA` | [Music Understanding LLaMA: Advancing Text-to-Music Generation with Question Answering and Captioning]
+- `2023/08` | `MU-LLaMA` | [Music Understanding LLaMA: Advancing Text-to-Music Generation with Question Answering and Captioning](https://arxiv.org/abs/2308.11276)
 \-
 [[Paper](https://arxiv.org/pdf/2308.11276.pdf)]
 [[Code](https://github.com/crypto-code/MU-LLaMA)]
