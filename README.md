@@ -1232,6 +1232,16 @@ Language Models
 <details open>
 <summary>audio reasoning</summary>
 
+- `2023/11` | `M2UGen` | [M2UGen: Multi-modal Music Understanding and Generation with the Power of Large Language Models](https://arxiv.org/abs/2311.11255)
+\-
+[[Paper](https://arxiv.org/pdf/2311.11255.pdf)]
+[[Code](https://github.com/crypto-code/M2UGen)]
+
+- `2023/08` | `MU-LLaMA` | [Music Understanding LLaMA: Advancing Text-to-Music Generation with Question Answering and Captioning]
+\-
+[[Paper](https://arxiv.org/pdf/2308.11276.pdf)]
+[[Code](https://github.com/crypto-code/MU-LLaMA)]
+
 - `2022/05` | [Self-Supervised Speech Representation Learning: A Review](https://arxiv.org/abs/2205.10643)
 \-
 
