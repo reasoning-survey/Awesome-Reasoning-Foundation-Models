@@ -29,6 +29,7 @@ We welcome contributions to this repository to add more resources. Please submit
   - [2.1 Language Foundation Models](#21-language-foundation-models)
   - [2.2 Vision Foundation Models](#22-vision-foundation-models)
   - [2.3 Multimodal Foundation Models](#23-multimodal-foundation-models)
+  - [2.4 Reasoning Applications](#24-reasoning-applications)
 - [3 Reasoning Tasks](#3-reasoning-tasks)
   - [3.1 Commonsense Reasoning](#31-commonsense-reasoning)
   - [3.2 Mathematical Reasoning](#32-mathematical-reasoning)
@@ -112,7 +113,7 @@ If you find this repository helpful, please consider citing:
 
 - Combating Misinformation in the Age of LLMs: Opportunities and Challenges
 \-
-[[arXiv]](https://arxiv.org/abs/2311.05656)
+[[arXiv](https://arxiv.org/abs/2311.05656)]
 [[Link](https://llm-misinformation.github.io/)]
 
 - The Rise and Potential of Large Language Model Based Agents: A Survey
