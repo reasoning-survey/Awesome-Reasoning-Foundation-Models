@@ -1334,6 +1334,11 @@ Language Models
 <details open>
 <summary>multimodal reasoning</summary>
 
+- `2023/12` | [A Challenger to GPT-4V? Early Explorations of Gemini in Visual Expertise]()
+\-
+[[Paper](https://arxiv.org/pdf/2312.12436.pdf)]
+[[Project](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)]
+
 #### 3.7.1 Alignment
 
 - `2023/01` | `BLIP-2` | [BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models](https://arxiv.org/abs/2301.12597)
