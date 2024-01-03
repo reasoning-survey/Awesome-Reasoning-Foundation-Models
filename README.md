@@ -110,6 +110,11 @@ If you find this repository helpful, please consider citing:
 <details open>
 <summary>relevant surveys</summary>
 
+- Combating Misinformation in the Age of LLMs: Opportunities and Challenges
+\-
+[[arXiv]](https://arxiv.org/abs/2311.05656)
+[[Link](https://llm-misinformation.github.io/)]
+
 - The Rise and Potential of Large Language Model Based Agents: A Survey
 \-
 [[arXiv](https://arxiv.org/abs/2309.07864)]
@@ -161,15 +166,6 @@ If you find this repository helpful, please consider citing:
 - Awesome Multimodal Reasoning
 \-
 [[Link](https://github.com/atfortes/Awesome-Multimodal-Reasoning)]
-
-</details>
-
-- Awesome Multimodal Reasoning
-\-
-[[arXiv]](https://arxiv.org/abs/2311.05656)
-[[Paper]](https://arxiv.org/pdf/2311.05656.pdf)
-[[Link](https://llm-misinformation.github.io/)]
-
 
 </details>
 
