@@ -502,6 +502,11 @@ If you find this repository helpful, please consider citing:
 <details open>
 <summary>commonsense reasoning</summary>
 
+- `2023/12` | [Gemini in Reasoning: Unveiling Commonsense in Multimodal Large Language Models](https://arxiv.org/abs/2312.17661)
+\-
+[[Paper](https://arxiv.org/pdf/2312.17661.pdf)]
+[[Code](https://github.com/EternityYW/Gemini-Commonsense-Evaluation/)]
+
 - `2023/05` | `LLM-MCTS` | [Large Language Models as Commonsense Knowledge for Large-Scale Task Planning](https://arxiv.org/abs/2305.14078)
 \-
 [[Paper](https://openreview.net/pdf?id=Wjp1AYB8lH)]
