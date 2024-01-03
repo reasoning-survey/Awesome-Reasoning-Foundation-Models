@@ -164,6 +164,15 @@ If you find this repository helpful, please consider citing:
 
 </details>
 
+- Awesome Multimodal Reasoning
+\-
+[[arXiv]](https://arxiv.org/abs/2311.05656)
+[[Paper]](https://arxiv.org/pdf/2311.05656.pdf)
+[[Link](https://llm-misinformation.github.io/)]
+
+
+</details>
+
 
 ## 2 Foundation Models
 
