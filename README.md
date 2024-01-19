@@ -666,6 +666,12 @@ If you find this repository helpful, please consider citing:
 <details open>
 <summary>mathematical reasoning</summary>
 
+- `2023/10` | `MathVista` | [MathVista: Evaluating Math Reasoning in Visual Contexts with GPT-4V, Bard, and Other Large Multimodal Models](https://arxiv.org/abs/2310.02255)
+\-
+[[Paper](https://openreview.net/forum?id=KUNzEQMWU7)]
+[[Code](https://github.com/lupantech/MathVista)]
+[[Project](https://mathvista.github.io/)]
+
 - `2022/11` | Tokenization in the Theory of Knowledge
 \-
 [[Paper](https://www.mdpi.com/2673-8392/3/1/24)]
@@ -716,6 +722,12 @@ If you find this repository helpful, please consider citing:
 [[Paper](https://aclanthology.org/P14-1026.pdf)]
 
 #### 3.2.2 Geometry Reasoning
+
+- `2024/01` | `AlphaGeometry` | Solving olympiad geometry without human demonstrations
+\-
+[[Paper](https://www.nature.com/articles/s41586-023-06747-5)]
+[[Code](https://github.com/google-deepmind/alphageometry)]
+[[Blog](https://deepmind.google/discover/blog/alphageometry-an-olympiad-level-ai-system-for-geometry/)]
 
 - `2022/12` | `UniGeo` / `Geoformer` | [UniGeo: Unifying Geometry Logical Reasoning via Reformulating Mathematical Expression](https://arxiv.org/abs/2212.02746)
 
