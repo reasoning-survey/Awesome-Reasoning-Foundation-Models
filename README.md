@@ -502,11 +502,65 @@ If you find this repository helpful, please consider citing:
 <details open>
 <summary>reasoning tasks</summary>
 
+### Table of Contents
+
+<details open>
+<summary>reasoning tasks (table of contents)</summary>
+
+- [3 Reasoning Tasks](#3-reasoning-tasks)
+  - [3.1 Commonsense Reasoning](#31-commonsense-reasoning)
+    - [3.1.1 Commonsense Question and Answering (QA)](#311-commonsense-question-and-answering-qa)
+    - [3.1.2 Physical Commonsense Reasoning](#312-physical-commonsense-reasoning)
+    - [3.1.3 Spatial Commonsense Reasoning](#313-spatial-commonsense-reasoning)
+    - [3.1.x Benchmarks, Datasets, and Metrics](#31x-benchmarks-datasets-and-metrics)
+  - [3.2 Mathematical Reasoning](#32-mathematical-reasoning)
+    - [3.2.1 Arithmetic Reasoning](#321-arithmetic-reasoning)
+    - [3.2.2 Geometry Reasoning](#322-geometry-reasoning)
+    - [3.2.3 Theorem Proving](#323-theorem-proving)
+    - [3.2.4 Scientific Reasoning](#324-scientific-reasoning)
+    - [3.2.x Benchmarks, Datasets, and Metrics](#32x-benchmarks-datasets-and-metrics)
+  - [3.3 Logical Reasoning](#33-logical-reasoning)
+    - [3.3.1 Propositional Logic](#331-propositional-logic)
+    - [3.3.2 Predicate Logic](#332-predicate-logic)
+    - [3.3.x Benchmarks, Datasets, and Metrics](#33x-benchmarks-datasets-and-metrics)
+  - [3.4 Causal Reasoning](#34-causal-reasoning)
+    - [3.4.1 Counterfactual Reasoning](#341-counterfactual-reasoning)
+    - [3.4.x Benchmarks, Datasets, and Metrics](#34x-benchmarks-datasets-and-metrics)
+  - [3.5 Visual Reasoning](#35-visual-reasoning)
+    - [3.5.1 3D Reasoning](#351-3d-reasoning)
+    - [3.5.x Benchmarks, Datasets, and Metrics](#35x-benchmarks-datasets-and-metrics)
+  - [3.6 Audio Reasoning](#36-audio-reasoning)
+    - [3.6.1 Speech](#361-speech)
+    - [3.6.x Benchmarks, Datasets, and Metrics](#36x-benchmarks-datasets-and-metrics)
+  - [3.7 Multimodal Reasoning](#37-multimodal-reasoning)
+    - [3.7.1 Alignment](#371-alignment)
+    - [3.7.2 Generation](#372-generation)
+    - [3.7.3 Multimodal Understanding](#373-multimodal-understanding)
+    - [3.7.x Benchmarks, Datasets, and Metrics](#37x-benchmarks-datasets-and-metrics)
+  - [3.8 Agent Reasoning](#38-agent-reasoning)
+    - [3.8.1 Introspective Reasoning](#381-introspective-reasoning)
+    - [3.8.2 Extrospective Reasoning](#382-extrospective-reasoning)
+    - [3.8.3 Multi-agent Reasoning](#383-multi-agent-reasoning)
+    - [3.8.4 Driving Reasoning](#384-driving-reasoning)
+    - [3.8.x Benchmarks, Datasets, and Metrics](#38x-benchmarks-datasets-and-metrics)
+  - [3.9 Other Tasks and Applications](#39-other-tasks-and-applications)
+    - [3.9.1 Theory of Mind (ToM)](#391-theory-of-mind-tom)
+    - [3.9.2 LLMs for Weather Prediction](#392-llms-for-weather-prediction)
+    - [3.9.3 Abstract Reasoning](#393-abstract-reasoning)
+    - [3.9.4 Defeasible Reasoning](#394-defeasible-reasoning)
+    - [3.9.5 Medical Reasoning](#395-medical-reasoning)
+    - [3.9.6 Bioinformatics Reasoning](#396-bioinformatics-reasoning)
+    - [3.9.7 Long-Chain Reasoning](#397-long-chain-reasoning)
+
+</details>
+
 <!--  -->
 ### 3.1 Commonsense Reasoning
 
 <details open>
 <summary>commonsense reasoning</summary>
+
+[Reasoning Tasks (Back-to-Top)](#3-reasoning-tasks)
 
 - `2023/12` | [Gemini in Reasoning: Unveiling Commonsense in Multimodal Large Language Models](https://arxiv.org/abs/2312.17661)
 \-
@@ -665,6 +719,8 @@ If you find this repository helpful, please consider citing:
 
 <details open>
 <summary>mathematical reasoning</summary>
+
+[Reasoning Tasks (Back-to-Top)](#3-reasoning-tasks)
 
 - `2023/10` | `MathVista` | [MathVista: Evaluating Math Reasoning in Visual Contexts with GPT-4V, Bard, and Other Large Multimodal Models](https://arxiv.org/abs/2310.02255)
 \-
@@ -1006,6 +1062,8 @@ Compiler from a Proof Assistant
 <details open>
 <summary>logical reasoning</summary>
 
+[Reasoning Tasks (Back-to-Top)](#3-reasoning-tasks)
+
 - `2023/10` | `LogiGLUE` | [Towards LogiGLUE: A Brief Survey and A Benchmark for Analyzing Logical Reasoning Capabilities of Language Models](https://arxiv.org/abs/2310.00836)
 \-
 
@@ -1112,6 +1170,8 @@ Language Models
 <details open>
 <summary>causal reasoning</summary>
 
+[Reasoning Tasks (Back-to-Top)](#3-reasoning-tasks)
+
 - `2023/08` | [Causal Parrots: Large Language Models May Talk Causality But Are Not Causal](https://arxiv.org/abs/2308.13067)
 
 - `2023/07` | [Causal Discovery with Language Models as Imperfect Experts](https://arxiv.org/abs/2307.02390)
@@ -1213,6 +1273,8 @@ Language Models
 <details open>
 <summary>visual reasoning</summary>
 
+[Reasoning Tasks (Back-to-Top)](#3-reasoning-tasks)
+
 - `2022/11` | `G-VUE` | [Perceive, Ground, Reason, and Act: A Benchmark for General-purpose Visual Representation](https://arxiv.org/abs/2211.15402)
 \-
 
@@ -1256,6 +1318,8 @@ Language Models
 
 <details open>
 <summary>audio reasoning</summary>
+
+[Reasoning Tasks (Back-to-Top)](#3-reasoning-tasks)
 
 - `2023/11` | `M2UGen` | [M2UGen: Multi-modal Music Understanding and Generation with the Power of Large Language Models](https://arxiv.org/abs/2311.11255)
 \-
@@ -1347,6 +1411,8 @@ Language Models
 
 <details open>
 <summary>multimodal reasoning</summary>
+
+[Reasoning Tasks (Back-to-Top)](#3-reasoning-tasks)
 
 - `2023/12` | [A Challenger to GPT-4V? Early Explorations of Gemini in Visual Expertise]()
 \-
@@ -1447,6 +1513,8 @@ Language Models
 
 <details open>
 <summary>agent reasoning</summary>
+
+[Reasoning Tasks (Back-to-Top)](#3-reasoning-tasks)
 
 - `2023/11` | `OpenFlamingo` | [Vision-Language Foundation Models as Effective Robot Imitators](https://arxiv.org/abs/2311.01378)
 \-
@@ -1646,6 +1714,8 @@ Language Models
 
 <details open>
 <summary>other tasks and applications</summary>
+
+[Reasoning Tasks (Back-to-Top)](#3-reasoning-tasks)
 
 #### 3.9.1 Theory of Mind (ToM)
 
