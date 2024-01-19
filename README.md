@@ -671,6 +671,7 @@ If you find this repository helpful, please consider citing:
 [[Paper](https://openreview.net/forum?id=KUNzEQMWU7)]
 [[Code](https://github.com/lupantech/MathVista)]
 [[Project](https://mathvista.github.io/)]
+| `Lu et al., ICLR 2024`
 
 - `2022/11` | Tokenization in the Theory of Knowledge
 \-
@@ -728,6 +729,7 @@ If you find this repository helpful, please consider citing:
 [[Paper](https://www.nature.com/articles/s41586-023-06747-5)]
 [[Code](https://github.com/google-deepmind/alphageometry)]
 [[Blog](https://deepmind.google/discover/blog/alphageometry-an-olympiad-level-ai-system-for-geometry/)]
+| `Trinh et al., Nature`
 
 - `2022/12` | `UniGeo` / `Geoformer` | [UniGeo: Unifying Geometry Logical Reasoning via Reformulating Mathematical Expression](https://arxiv.org/abs/2212.02746)
 
