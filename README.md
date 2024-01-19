@@ -176,12 +176,29 @@ If you find this repository helpful, please consider citing:
 <details open>
 <summary>foundation models</summary>
 
+[(Back-to-Top)](#table-of-contents)
+
 ![foundation_models](assets/22_foundation_models.jpg)
+
+### Table of Contents - 2
+
+<details open>
+<summary>foundation models (table of contents)</summary>
+
+- [2 Foundation Models](#2-foundation-models)
+  - [2.1 Language Foundation Models](#21-language-foundation-models)
+  - [2.2 Vision Foundation Models](#22-vision-foundation-models)
+  - [2.3 Multimodal Foundation Models](#23-multimodal-foundation-models)
+  - [2.4 Reasoning Applications](#24-reasoning-applications)
+
+</details>
 
 ### 2.1 Language Foundation Models
 
 <details open>
 <summary>LFMs</summary>
+
+[Foundation Models (Back-to-Top)](#2-foundation-models)
 
 - `2023/10` | `Mistral` | [Mistral 7B](https://arxiv.org/abs/2310.06825)
 \-
@@ -277,6 +294,8 @@ If you find this repository helpful, please consider citing:
 <details open>
 <summary>VFMs</summary>
 
+[Foundation Models (Back-to-Top)](#2-foundation-models)
+
 - `2023/05` | `SAA+` | [Segment Any Anomaly without Training via Hybrid Prompt Regularization](https://arxiv.org/abs/2305.10724)
 \-
 [[Paper](https://arxiv.org/pdf/2305.10724.pdf)]
@@ -356,6 +375,8 @@ If you find this repository helpful, please consider citing:
 
 <details open>
 <summary>MFMs</summary>
+
+[Foundation Models (Back-to-Top)](#2-foundation-models)
 
 - `2023/12` | `InternVL` | [InternVL: Scaling up Vision Foundation Models and Aligning for Generic Visual-Linguistic Tasks](https://arxiv.org/abs/2312.14238)
 \-
@@ -461,6 +482,8 @@ If you find this repository helpful, please consider citing:
 <details open>
 <summary>reasoning applications</summary>
 
+[Foundation Models (Back-to-Top)](#2-foundation-models)
+
 - `2022/06` | `Minerva` | [Solving Quantitative Reasoning Problems with Language Models](https://arxiv.org/abs/2206.14858)
 \-
 [[Paper](https://openreview.net/pdf?id=IFXTZERXdM7)]
@@ -502,7 +525,9 @@ If you find this repository helpful, please consider citing:
 <details open>
 <summary>reasoning tasks</summary>
 
-### Table of Contents
+[(Back-to-Top)](#table-of-contents)
+
+### Table of Contents - 3
 
 <details open>
 <summary>reasoning tasks (table of contents)</summary>
@@ -1844,11 +1869,62 @@ Language Models
 <details open>
 <summary>reasoning techniques</summary>
 
+[(Back-to-Top)](#table-of-contents)
+
+### Table of Contents - 4
+
+<details open>
+<summary>reasoning techniques (table of contents)</summary>
+
+- [4 Reasoning Techniques](#4-reasoning-techniques)
+  - [4.1 Pre-Training](#41-pre-training)
+    - [4.1.1 Data](#411-data)
+      - [a. Data - Text](#a-data---text)
+      - [b. Data - Image](#b-data---image)
+      - [c. Data - Multimodality](#c-data---multimodality)
+    - [4.1.2 Network Architecture](#412-network-architecture)
+      - [a. Encoder-Decoder](#a-encoder-decoder)
+      - [b. Decoder-Only](#b-decoder-only)
+      - [c. CLIP Variants](#c-clip-variants)
+      - [d. Others](#d-others)
+  - [4.2 Fine-Tuning](#42-fine-tuning)
+    - [4.2.1 Data](#421-data)
+    - [4.2.2 Parameter-Efficient Fine-tuning](#422-parameter-efficient-fine-tuning)
+      - [a. Adapter Tuning](#a-adapter-tuning)
+      - [b. Low-Rank Adaptation](#b-low-rank-adaptation)
+      - [c. Prompt Tuning](#c-prompt-tuning)
+      - [d. Partial Parameter Tuning](#d-partial-parameter-tuning)
+      - [e. Mixture-of-Modality Adaption](#e-mixture-of-modality-adaption)
+  - [4.3 Alignment Training](#43-alignment-training)
+    - [4.3.1 Data](#431-data)
+      - [a. Data - Human](#a-data---human)
+      - [b. Data - Synthesis](#b-data---synthesis)
+    - [4.3.2 Training Pipeline](#432-training-pipeline)
+      - [a. Online Human Preference Training](#a-online-human-preference-training)
+      - [b. Offline Human Preference Training](#b-offline-human-preference-training)
+  - [4.4 Mixture of Experts (MoE)](#44-mixture-of-experts-moe)
+  - [4.5 In-Context Learning](#45-in-context-learning)
+    - [4.5.1 Demonstration Example Selection](#451-demonstration-example-selection)
+      - [a. Prior-Knowledge Approach](#a-prior-knowledge-approach)
+      - [b. Retrieval Approach](#b-retrieval-approach)
+    - [4.5.2 Chain-of-Thought](#452-chain-of-thought)
+      - [a. Zero-Shot CoT](#a-zero-shot-cot)
+      - [b. Few-Shot CoT](#b-few-shot-cot)
+      - [c. Multiple Paths Aggregation](#c-multiple-paths-aggregation)
+    - [4.5.3 Multi-Round Prompting](#453-multi-round-prompting)
+      - [a. Learned Refiners](#a-learned-refiners)
+      - [b. Prompted Refiners](#b-prompted-refiners)
+  - [4.6 Autonomous Agent](#46-autonomous-agent)
+
+</details>
+
 <!--  -->
 ### 4.1 Pre-Training
 
 <details open>
 <summary>pre-training</summary>
+
+[Reasoning Techniques (Back-to-Top)](#4-reasoning-techniques)
 
 #### 4.1.1 Data
 
@@ -2058,6 +2134,8 @@ Language Models
 <details open>
 <summary>fine-tuning</summary>
 
+[Reasoning Techniques (Back-to-Top)](#4-reasoning-techniques)
+
 #### 4.2.1 Data
 
 - `2023/09` | `MetaMath` | [MetaMath: Bootstrap Your Own Mathematical Questions for Large Language Models](https://arxiv.org/abs/2309.12284)
@@ -2190,6 +2268,8 @@ Language Models
 <details open>
 <summary>alignment training</summary>
 
+[Reasoning Techniques (Back-to-Top)](#4-reasoning-techniques)
+
 #### 4.3.1 Data
 
 ##### a. Data - Human
@@ -2315,6 +2395,8 @@ Language Models
 <details open>
 <summary>mixture of experts</summary>
 
+[Reasoning Techniques (Back-to-Top)](#4-reasoning-techniques)
+
 - `2023/06` | [An Efficient General-Purpose Modular Vision Model via Multi-Task Heterogeneous Training](https://arxiv.org/abs/2306.17165)
 \-
 
@@ -2355,6 +2437,8 @@ Language Models
 
 <details open>
 <summary>in-context learning</summary>
+
+[Reasoning Techniques (Back-to-Top)](#4-reasoning-techniques)
 
 - `2022/10` | `FLAN-T5` | [Scaling Instruction-Finetuned Language Models](https://arxiv.org/abs/2210.11416)
 \-
@@ -2552,6 +2636,8 @@ Language Models
 
 <details open>
 <summary>autonomous agent</summary>
+
+[Reasoning Techniques (Back-to-Top)](#4-reasoning-techniques)
 
 - `2023/10` | `planning tokens` | [Guiding Language Model Reasoning with Planning Tokens](https://aps.arxiv.org/abs/2310.05707)
 \-
