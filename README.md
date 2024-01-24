@@ -1792,107 +1792,107 @@ Language Models
 
 #### 3.9.5 Medical Reasoning
 
-- `2024/01` | `CheXagent` / `CheXinstruct` / `CheXbench` |
-[CheXagent: Towards a Foundation Model for Chest X-Ray Interpretation](https://arxiv.org/abs/2401.12208)
-\-
+- `2024/01` | `CheXagent` / `CheXinstruct` / `CheXbench`
+| `Chen et al.`
+![Star](https://img.shields.io/github/stars/Stanford-AIMI/CheXagent.svg?style=social&label=Star) <br>
+**CheXagent: Towards a Foundation Model for Chest X-Ray Interpretation** <br>
+[[arXiv](https://arxiv.org/abs/2401.12208)]
 [[paper](https://arxiv.org/pdf/2401.12208.pdf)]
 [[code](https://github.com/Stanford-AIMI/CheXagent)]
 [[project](https://stanford-aimi.github.io/chexagent.html)]
 [[huggingface](https://huggingface.co/stanford-crfm/BioMedLM)]
-| `Chen et al.`
-![Star](https://img.shields.io/github/stars/Stanford-AIMI/CheXagent.svg?style=social&label=Star)
 
-- `2024/01` | `EchoGPT` |
-[EchoGPT: A Large Language Model for Echocardiography Report Summarization](https://www.medrxiv.org/content/10.1101/2024.01.18.24301503)
-\-
+- `2024/01` | `EchoGPT`
+| `Chao et al.` <br>
+**EchoGPT: A Large Language Model for Echocardiography Report Summarization** <br>
+[[medRxiv](https://www.medrxiv.org/content/10.1101/2024.01.18.24301503)]
 [[paper](https://www.medrxiv.org/content/10.1101/2024.01.18.24301503v1.full.pdf)]
-| `Chao et al.`
 
-- `2023/10` | `GPT4V-Medical-Report` |
-[Multimodal ChatGPT for Medical Applications: an Experimental Study of GPT-4V](https://arxiv.org/abs/2310.19061)
-\-
+- `2023/10` | `GPT4V-Medical-Report`
+| `Yan et al.`
+![Star](https://img.shields.io/github/stars/ZhilingYan/GPT4V-Medical-Report.svg?style=social&label=Star) <br>
+**Multimodal ChatGPT for Medical Applications: an Experimental Study of GPT-4V** <br>
+[[arXiv](https://arxiv.org/abs/2310.19061)]
 [[paper](https://arxiv.org/pdf/2307.15189.pdf)]
 [[code](https://github.com/ZhilingYan/GPT4V-Medical-Report)]
-| `Yan et al.`
-![Star](https://img.shields.io/github/stars/ZhilingYan/GPT4V-Medical-Report.svg?style=social&label=Star)
 
-- `2023/10` | `VisionFM` |
-[VisionFM: a Multi-Modal Multi-Task Vision Foundation Model for Generalist Ophthalmic Artificial Intelligence](https://arxiv.org/abs/2310.04992)
-\-
+- `2023/10` | `VisionFM`
+| `Qiu et al.` <br>
+**VisionFM: a Multi-Modal Multi-Task Vision Foundation Model for Generalist Ophthalmic Artificial Intelligence** <br>
+[[arXiv](https://arxiv.org/abs/2310.04992)]
 [[paper](https://arxiv.org/pdf/2310.04992.pdf)]
-| `Qiu et al.`
 
-- `2023/09` |
-[The Dawn of LMMs: Preliminary Explorations with GPT-4V(ision)](https://arxiv.org/abs/2309.17421)
-\-
+- `2023/09`
+| `Yang et al.`<br>
+**The Dawn of LMMs: Preliminary Explorations with GPT-4V(ision)** <br>
+[[arXiv](https://arxiv.org/abs/2309.17421)]
 [[paper](https://arxiv.org/pdf/2309.17421.pdf)]
-| `Yang et al.`
 
 - `2023/09` | `RETFound`
-| A foundation model for generalizable disease detection from retinal images
-\-
+| `Zhou et al., Nature`
+![Star](https://img.shields.io/github/stars/rmaphoh/RETFound_MAE.svg?style=social&label=Star) <br>
+**A foundation model for generalizable disease detection from retinal images** <br>
 [[paper](https://www.nature.com/articles/s41586-023-06555-x)]
 [[code](https://github.com/rmaphoh/RETFound_MAE)]
-| `Zhou et al., Nature`
-![Star](https://img.shields.io/github/stars/rmaphoh/RETFound_MAE.svg?style=social&label=Star)
 
-- `2023/08` | `ELIXR` |
-[ELIXR: Towards a general purpose X-ray artificial intelligence system through alignment of large language models and radiology vision encoders](https://arxiv.org/abs/2308.01317)
-\-
+- `2023/08` | `ELIXR`
+| `Xu et al.` <br>
+**ELIXR: Towards a general purpose X-ray artificial intelligence system through alignment of large language models and radiology vision encoders** <br>
+[[arXiv](https://arxiv.org/abs/2308.01317)]
 [[paper](https://arxiv.org/pdf/2308.01317.pdf)]
-| `Xu et al.`
 
-- `2023/07` | `Med-Flamingo` |
-[Med-Flamingo: a Multimodal Medical Few-shot Learner](https://arxiv.org/abs/2307.15189)
-\-
+- `2023/07` | `Med-Flamingo`
+| `Moor et al.`
+![Star](https://img.shields.io/github/stars/snap-stanford/med-flamingo.svg?style=social&label=Star) <br>
+**Med-Flamingo: a Multimodal Medical Few-shot Learner** <br>
+[[arXiv](https://arxiv.org/abs/2307.15189)]
 [[paper](https://arxiv.org/pdf/2307.15189.pdf)]
 [[code](https://github.com/snap-stanford/med-flamingo)]
-| `Moor et al.`
-![Star](https://img.shields.io/github/stars/snap-stanford/med-flamingo.svg?style=social&label=Star)
 
-- `2023/07` | `Med-PaLM M`|
-[Towards Generalist Biomedical AI](https://arxiv.org/abs/2307.14334)
-\-
+- `2023/07` | `Med-PaLM M`
+| `Tu et al.`
+![Star](https://img.shields.io/github/stars/kyegomez/Med-PaLM.svg?style=social&label=Star) <br>
+**Towards Generalist Biomedical AI** <br>
+[[arXiv](https://arxiv.org/abs/2307.14334)]
 [[paper](https://arxiv.org/pdf/2307.14334.pdf)]
 [[code](https://github.com/kyegomez/Med-PaLM)]
-| `Tu et al.`
-![Star](https://img.shields.io/github/stars/kyegomez/Med-PaLM.svg?style=social&label=Star)
 
-- `2023/06` | `Endo-FM` |
-[Foundation Model for Endoscopy Video Analysis via Large-scale Self-supervised Pre-train](https://arxiv.org/abs/2306.16741)
-\-
+- `2023/06` | `Endo-FM`
+| `Wang et al., MICCAI 2023`
+![Star](https://img.shields.io/github/stars/med-air/Endo-FM.svg?style=social&label=Star) <br>
+**Foundation Model for Endoscopy Video Analysis via Large-scale Self-supervised Pre-train** <br>
+[[arXiv](https://arxiv.org/abs/2306.16741)]
 [[paper](https://link.springer.com/chapter/10.1007/978-3-031-43996-4_10)]
 [[code](https://github.com/med-air/Endo-FM)]
-| `Wang et al., MICCAI 2023`
-![Star](https://img.shields.io/github/stars/med-air/Endo-FM.svg?style=social&label=Star)
 
-- `2023/06` | `XrayGPT` |
-[XrayGPT: Chest Radiographs Summarization using Medical Vision-Language Models](https://arxiv.org/abs/2306.07971)
+- `2023/06` | `XrayGPT`
+| `Thawkar et al.`
+![Star](https://img.shields.io/github/stars/mbzuai-oryx/XrayGPT.svg?style=social&label=Star) <br>
+**XrayGPT: Chest Radiographs Summarization using Medical Vision-Language Models** <br>
 \-
+[[arXiv](https://arxiv.org/abs/2306.07971)]
 [[paper](https://arxiv.org/pdf/2306.07971.pdf)]
 [[code](https://github.com/mbzuai-oryx/XrayGPT)]
-| `Thawkar et al.`
-![Star](https://img.shields.io/github/stars/mbzuai-oryx/XrayGPT.svg?style=social&label=Star)
 
-- `2023/06` | `LLaVA-Med` |
-[LLaVA-Med: Training a Large Language-and-Vision Assistant for Biomedicine in One Day](https://arxiv.org/abs/2306.00890)
-\-
+- `2023/06` | `LLaVA-Med`
+| `Li et al., NeurIPS 2023`
+![Star](https://img.shields.io/github/stars/microsoft/LLaVA-Med.svg?style=social&label=Star) <br>
+**LLaVA-Med: Training a Large Language-and-Vision Assistant for Biomedicine in One Day** <br>
+[[arXiv](https://arxiv.org/abs/2306.00890)]
 [[paper](https://neurips.cc/virtual/2023/poster/73643)]
 [[code](https://github.com/microsoft/LLaVA-Med)]
-| `Li et al., NeurIPS 2023`
-![Star](https://img.shields.io/github/stars/microsoft/LLaVA-Med.svg?style=social&label=Star)
 
-- `2023/05` | `Med-PaLM 2` |
-[Towards Expert-Level Medical Question Answering with Large Language Models](https://arxiv.org/abs/2305.09617)
-\-
+- `2023/05` | `Med-PaLM 2`
+| `Singhal et al.` <br>
+**Towards Expert-Level Medical Question Answering with Large Language Models** <br>
+[[arXiv](https://arxiv.org/abs/2305.09617)]
 [[paper](https://arxiv.org/pdf/2305.09617.pdf)]
-| `Singhal et al.`
 
-- `2022/12` | ` Med-PaLM` / `MultiMedQA` / `HealthSearchQA` |
-[Large Language Models Encode Clinical Knowledge](https://arxiv.org/abs/2212.13138)
-\-
+- `2022/12` | ` Med-PaLM` / `MultiMedQA` / `HealthSearchQA`
+| `Singhal et al., Nature` <br>
+**Large Language Models Encode Clinical Knowledge** <br>
+[[arXiv](https://arxiv.org/abs/2212.13138)]
 [[paper](https://www.nature.com/articles/s41586-023-06291-2)]
-| `Singhal et al., Nature`
 
 #### 3.9.6 Bioinformatics Reasoning
 
