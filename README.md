@@ -1857,6 +1857,7 @@ Language Models
 
 - `2024/01` | `CheXagent` / `CheXinstruct` / `CheXbench`
 | `Chen et al.`
+![citations](https://img.shields.io/badge/dynamic/json?url=https://api.semanticscholar.org/graph/v1/paper/CorpusID:267069358?fields=citationCount&query=%24.citationCount&label=citations)
 ![Star](https://img.shields.io/github/stars/Stanford-AIMI/CheXagent.svg?style=social&label=Star) <br>
 CheXagent: Towards a Foundation Model for Chest X-Ray Interpretation <br>
 [[arXiv](https://arxiv.org/abs/2401.12208)]
@@ -1866,13 +1867,15 @@ CheXagent: Towards a Foundation Model for Chest X-Ray Interpretation <br>
 [[huggingface](https://huggingface.co/stanford-crfm/BioMedLM)]
 
 - `2024/01` | `EchoGPT`
-| `Chao et al.` <br>
+| `Chao et al.`
+![citations](https://img.shields.io/badge/dynamic/json?url=https://api.semanticscholar.org/graph/v1/paper/CorpusID:267042212?fields=citationCount&query=%24.citationCount&label=citations) <br>
 EchoGPT: A Large Language Model for Echocardiography Report Summarization <br>
 [[medRxiv](https://www.medrxiv.org/content/10.1101/2024.01.18.24301503)]
 [[paper](https://www.medrxiv.org/content/10.1101/2024.01.18.24301503v1.full.pdf)]
 
 - `2023/10` | `GPT4V-Medical-Report`
 | `Yan et al.`
+![citations](https://img.shields.io/badge/dynamic/json?url=https://api.semanticscholar.org/graph/v1/paper/CorpusID:264805701?fields=citationCount&query=%24.citationCount&label=citations)
 ![Star](https://img.shields.io/github/stars/ZhilingYan/GPT4V-Medical-Report.svg?style=social&label=Star) <br>
 Multimodal ChatGPT for Medical Applications: an Experimental Study of GPT-4V <br>
 [[arXiv](https://arxiv.org/abs/2310.19061)]
@@ -1880,32 +1883,37 @@ Multimodal ChatGPT for Medical Applications: an Experimental Study of GPT-4V <br
 [[code](https://github.com/ZhilingYan/GPT4V-Medical-Report)]
 
 - `2023/10` | `VisionFM`
-| `Qiu et al.` <br>
+| `Qiu et al.`
+![citations](https://img.shields.io/badge/dynamic/json?url=https://api.semanticscholar.org/graph/v1/paper/CorpusID:263828921?fields=citationCount&query=%24.citationCount&label=citations) <br>
 VisionFM: a Multi-Modal Multi-Task Vision Foundation Model for Generalist Ophthalmic Artificial Intelligence <br>
 [[arXiv](https://arxiv.org/abs/2310.04992)]
 [[paper](https://arxiv.org/pdf/2310.04992.pdf)]
 
 - `2023/09`
-| `Yang et al.`<br>
+| `Yang et al.`
+![citations](https://img.shields.io/badge/dynamic/json?url=https://api.semanticscholar.org/graph/v1/paper/CorpusID:263310951?fields=citationCount&query=%24.citationCount&label=citations) <br>
 The Dawn of LMMs: Preliminary Explorations with GPT-4V(ision) <br>
 [[arXiv](https://arxiv.org/abs/2309.17421)]
 [[paper](https://arxiv.org/pdf/2309.17421.pdf)]
 
 - `2023/09` | `RETFound`
 | `Zhou et al., Nature`
+![citations](https://img.shields.io/badge/dynamic/json?url=https://api.semanticscholar.org/graph/v1/paper/CorpusID:264168236?fields=citationCount&query=%24.citationCount&label=citations)
 ![Star](https://img.shields.io/github/stars/rmaphoh/RETFound_MAE.svg?style=social&label=Star) <br>
 A foundation model for generalizable disease detection from retinal images <br>
 [[paper](https://www.nature.com/articles/s41586-023-06555-x)]
 [[code](https://github.com/rmaphoh/RETFound_MAE)]
 
 - `2023/08` | `ELIXR`
-| `Xu et al.` <br>
+| `Xu et al.`
+![citations](https://img.shields.io/badge/dynamic/json?url=https://api.semanticscholar.org/graph/v1/paper/CorpusID:260378981?fields=citationCount&query=%24.citationCount&label=citations) <br>
 ELIXR: Towards a general purpose X-ray artificial intelligence system through alignment of large language models and radiology vision encoders <br>
 [[arXiv](https://arxiv.org/abs/2308.01317)]
 [[paper](https://arxiv.org/pdf/2308.01317.pdf)]
 
 - `2023/07` | `Med-Flamingo`
 | `Moor et al.`
+![citations](https://img.shields.io/badge/dynamic/json?url=https://api.semanticscholar.org/graph/v1/paper/CorpusID:260316059?fields=citationCount&query=%24.citationCount&label=citations)
 ![Star](https://img.shields.io/github/stars/snap-stanford/med-flamingo.svg?style=social&label=Star) <br>
 Med-Flamingo: a Multimodal Medical Few-shot Learner <br>
 [[arXiv](https://arxiv.org/abs/2307.15189)]
@@ -1914,6 +1922,7 @@ Med-Flamingo: a Multimodal Medical Few-shot Learner <br>
 
 - `2023/07` | `Med-PaLM M`
 | `Tu et al.`
+![citations](https://img.shields.io/badge/dynamic/json?url=https://api.semanticscholar.org/graph/v1/paper/CorpusID:260164663?fields=citationCount&query=%24.citationCount&label=citations)
 ![Star](https://img.shields.io/github/stars/kyegomez/Med-PaLM.svg?style=social&label=Star) <br>
 Towards Generalist Biomedical AI <br>
 [[arXiv](https://arxiv.org/abs/2307.14334)]
@@ -1922,6 +1931,7 @@ Towards Generalist Biomedical AI <br>
 
 - `2023/06` | `Endo-FM`
 | `Wang et al., MICCAI 2023`
+![citations](https://img.shields.io/badge/dynamic/json?url=https://api.semanticscholar.org/graph/v1/paper/CorpusID:259287248?fields=citationCount&query=%24.citationCount&label=citations)
 ![Star](https://img.shields.io/github/stars/med-air/Endo-FM.svg?style=social&label=Star) <br>
 Foundation Model for Endoscopy Video Analysis via Large-scale Self-supervised Pre-train <br>
 [[arXiv](https://arxiv.org/abs/2306.16741)]
@@ -1930,6 +1940,7 @@ Foundation Model for Endoscopy Video Analysis via Large-scale Self-supervised Pr
 
 - `2023/06` | `XrayGPT`
 | `Thawkar et al.`
+![citations](https://img.shields.io/badge/dynamic/json?url=https://api.semanticscholar.org/graph/v1/paper/CorpusID:259145194?fields=citationCount&query=%24.citationCount&label=citations)
 ![Star](https://img.shields.io/github/stars/mbzuai-oryx/XrayGPT.svg?style=social&label=Star) <br>
 XrayGPT: Chest Radiographs Summarization using Medical Vision-Language Models <br>
 \-
@@ -1939,6 +1950,7 @@ XrayGPT: Chest Radiographs Summarization using Medical Vision-Language Models <b
 
 - `2023/06` | `LLaVA-Med`
 | `Li et al., NeurIPS 2023`
+![citations](https://img.shields.io/badge/dynamic/json?url=https://api.semanticscholar.org/graph/v1/paper/CorpusID:258999820?fields=citationCount&query=%24.citationCount&label=citations)
 ![Star](https://img.shields.io/github/stars/microsoft/LLaVA-Med.svg?style=social&label=Star) <br>
 LLaVA-Med: Training a Large Language-and-Vision Assistant for Biomedicine in One Day <br>
 [[arXiv](https://arxiv.org/abs/2306.00890)]
@@ -1946,13 +1958,15 @@ LLaVA-Med: Training a Large Language-and-Vision Assistant for Biomedicine in One
 [[code](https://github.com/microsoft/LLaVA-Med)]
 
 - `2023/05` | `Med-PaLM 2`
-| `Singhal et al.` <br>
+| `Singhal et al.`
+![citations](https://img.shields.io/badge/dynamic/json?url=https://api.semanticscholar.org/graph/v1/paper/CorpusID:258715226?fields=citationCount&query=%24.citationCount&label=citations) <br>
 Towards Expert-Level Medical Question Answering with Large Language Models <br>
 [[arXiv](https://arxiv.org/abs/2305.09617)]
 [[paper](https://arxiv.org/pdf/2305.09617.pdf)]
 
 - `2022/12` | ` Med-PaLM` / `MultiMedQA` / `HealthSearchQA`
-| `Singhal et al., Nature` <br>
+| `Singhal et al., Nature`
+![citations](https://img.shields.io/badge/dynamic/json?url=https://api.semanticscholar.org/graph/v1/paper/CorpusID:255124952?fields=citationCount&query=%24.citationCount&label=citations) <br>
 Large Language Models Encode Clinical Knowledge <br>
 [[arXiv](https://arxiv.org/abs/2212.13138)]
 [[paper](https://www.nature.com/articles/s41586-023-06291-2)]
@@ -2364,9 +2378,9 @@ Large Language Models Encode Clinical Knowledge <br>
 ![citations](https://img.shields.io/badge/dynamic/json?url=https://api.semanticscholar.org/graph/v1/paper/CorpusID:262084134?fields=citationCount&query=%24.citationCount&label=citations)
 ![Star](https://img.shields.io/github/stars/dvlab-research/LongLoRA.svg?style=social&label=Star) <br>
 LongLoRA: Efficient Fine-tuning of Long-Context Large Language Models <br>
-[arXiv](https://arxiv.org/abs/2309.12307)
-[paper](https://openreview.net/forum?id=6PmJoRfdaK)
-[code](https://github.com/dvlab-research/LongLoRA)
+[[arXiv](https://arxiv.org/abs/2309.12307)]
+[[paper](https://openreview.net/forum?id=6PmJoRfdaK)]
+[[code](https://github.com/dvlab-research/LongLoRA)]
 
 - `2023/05` | `QLoRA` | [QLoRA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/abs/2305.14314)
 \-
