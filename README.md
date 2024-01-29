@@ -835,6 +835,8 @@ An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale <br>
 
 #### 3.2.1 Arithmetic Reasoning
 
+[Mathematical Reasoning (Back-to-Top)](#32-mathematical-reasoning)
+
 - `2022/09` | `PromptPG` | [Dynamic Prompt Learning via Policy Gradient for Semi-structured Mathematical Reasoning](https://arxiv.org/abs/2209.14610)
 
 - `2022/01` | [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903)
@@ -862,6 +864,8 @@ An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale <br>
 
 #### 3.2.2 Geometry Reasoning
 
+[Mathematical Reasoning (Back-to-Top)](#32-mathematical-reasoning)
+
 - `2024/01` | `AlphaGeometry` | Solving olympiad geometry without human demonstrations
 \-
 [[Paper](https://www.nature.com/articles/s41586-023-06747-5)]
@@ -880,6 +884,8 @@ An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale <br>
 [[Paper](https://aclanthology.org/D15-1171.pdf)]
 
 #### 3.2.3 Theorem Proving
+
+[Mathematical Reasoning (Back-to-Top)](#32-mathematical-reasoning)
 
 - `2020/10` | `Prover` | [LEGO-Prover: Neural Theorem Proving with Growing Libraries](https://arxiv.org/abs/2310.00656)
 \-
@@ -970,6 +976,8 @@ Compiler from a Proof Assistant
 
 #### 3.2.4 Scientific Reasoning
 
+[Mathematical Reasoning (Back-to-Top)](#32-mathematical-reasoning)
+
 - `2023/07` | `SciBench` | [SciBench: Evaluating College-Level Scientific Problem-Solving Abilities of Large Language Models](https://arxiv.org/abs/2307.10635)
 \-
 
@@ -982,6 +990,13 @@ Compiler from a Proof Assistant
 [[Book](https://www.intechopen.com/books/654)]
 
 #### 3.2.x Benchmarks, Datasets, and Metrics
+
+[Mathematical Reasoning (Back-to-Top)](#32-mathematical-reasoning)
+
+- `2024/01` | `MathBench`
+![Star](https://img.shields.io/github/stars/open-compass/MathBench.svg?style=social&label=Star) <br>
+MathBench: A Comprehensive Multi-Level Difficulty Mathematics Evaluation Dataset <br>
+[[code](https://github.com/open-compass/MathBench)]
 
 - `2023/08` | `Math23K-F` / `MAWPS-F` / `FOMAS` | [Guiding Mathematical Reasoning via Mastering Commonsense Formula Knowledge](https://dl.acm.org/doi/abs/10.1145/3580305.3599375)
 \-
