@@ -300,10 +300,24 @@ If you find this repository helpful, please consider citing:
 
 [Foundation Models (Back-to-Top)](#2-foundation-models)
 
-- `2023/05` | `SAA+` | [Segment Any Anomaly without Training via Hybrid Prompt Regularization](https://arxiv.org/abs/2305.10724)
-\-
-[[Paper](https://arxiv.org/pdf/2305.10724.pdf)]
-[[Code](https://github.com/caoyunkang/Segment-Any-Anomaly)]
+- `2024/01` | `Depth Anything`
+| `Yang et al.`
+![citations](https://img.shields.io/badge/dynamic/json?url=https://api.semanticscholar.org/graph/v1/paper/CorpusID:267061016?fields=citationCount&query=%24.citationCount&label=citations)
+![Star](https://img.shields.io/github/stars/LiheYoung/Depth-Anything.svg?style=social&label=Star) <br>
+Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data <br>
+[[arXiv](https://arxiv.org/abs/2401.10891)]
+[[paper](https://arxiv.org/pdf/2401.10891.pdf)]
+[[code](https://github.com/LiheYoung/Depth-Anything)]
+[[project](https://depth-anything.github.io/)]
+
+- `2023/05` | `SAA+`
+| `Cao et al.`
+![citations](https://img.shields.io/badge/dynamic/json?url=https://api.semanticscholar.org/graph/v1/paper/CorpusID:258762545?fields=citationCount&query=%24.citationCount&label=citations)
+![Star](https://img.shields.io/github/stars/caoyunkang/Segment-Any-Anomaly.svg?style=social&label=Star) <br>
+Segment Any Anomaly without Training via Hybrid Prompt Regularization <br>
+[[arXiv](https://arxiv.org/abs/2305.10724)]
+[[paper](https://arxiv.org/pdf/2305.10724.pdf)]
+[[code](https://github.com/caoyunkang/Segment-Any-Anomaly)]
 
 - `2023/05` | `Explain Any Concept` | [Explain Any Concept: Segment Anything Meets Concept-Based Explanation](https://arxiv.org/abs/2305.10289)
 \-
@@ -330,45 +344,67 @@ If you find this repository helpful, please consider citing:
 [[Paper](https://arxiv.org/pdf/2304.06790.pdf)]
 [[Code](https://github.com/geekyutao/Inpaint-Anything)]
 
-- `2023/04` | `SAM` | [Segment Anything](https://arxiv.org/abs/2304.02643)
-\-
-[[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Kirillov_Segment_Anything_ICCV_2023_paper.pdf)]
-[[Code](https://github.com/facebookresearch/segment-anything)]
-[[Blog](https://segment-anything.com/)]
+- `2023/04` | `SAM`
+| `Kirillov et al., ICCV 2023`
+![citations](https://img.shields.io/badge/dynamic/json?url=https://api.semanticscholar.org/graph/v1/paper/CorpusID:257952310?fields=citationCount&query=%24.citationCount&label=citations)
+![Star](https://img.shields.io/github/stars/facebookresearch/segment-anything.svg?style=social&label=Star) <br>
+Segment Anything <br>
+[[arXiv](https://arxiv.org/abs/2304.02643)]
+[[paper](https://openaccess.thecvf.com/content/ICCV2023/html/Kirillov_Segment_Anything_ICCV_2023_paper.html)]
+[[code](https://github.com/facebookresearch/segment-anything)]
+[[blog](https://segment-anything.com/)]
 
 - `2023/03` | `VideoMAE V2` | [VideoMAE V2: Scaling Video Masked Autoencoders with Dual Masking](https://arxiv.org/abs/2303.16727)
 \-
 [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_VideoMAE_V2_Scaling_Video_Masked_Autoencoders_With_Dual_Masking_CVPR_2023_paper.pdf)]
 [[Code](https://github.com/OpenGVLab/VideoMAEv2)]
 
-- `2023/03` | `Grounding DINO` | [Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection](https://arxiv.org/abs/2303.05499)
-\-
-[[Paper](https://arxiv.org/pdf/2303.05499.pdf)]
-[[Code](https://github.com/IDEA-Research/GroundingDINO)]
+- `2023/03` | `Grounding DINO`
+| `Liu et al.`
+![citations](https://img.shields.io/badge/dynamic/json?url=https://api.semanticscholar.org/graph/v1/paper/CorpusID:257427307?fields=citationCount&query=%24.citationCount&label=citations)
+![Star](https://img.shields.io/github/stars/IDEA-Research/GroundingDINO.svg?style=social&label=Star) <br>
+Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection <br>
+[[arXiv](https://arxiv.org/abs/2303.05499)]
+[[paper](https://arxiv.org/pdf/2303.05499.pdf)]
+[[code](https://github.com/IDEA-Research/GroundingDINO)]
 
 - `2022/03` | `VideoMAE` | [VideoMAE: Masked Autoencoders are Data-Efficient Learners for Self-Supervised Video Pre-Training](https://arxiv.org/abs/2203.12602)
 \-
 [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/416f9cb3276121c42eebb86352a4354a-Abstract-Conference.html)]
 [[Code](https://github.com/MCG-NJU/VideoMAE)]
 
-- `2021/12` | `Stable Diffusion` | [High-Resolution Image Synthesis with Latent Diffusion Models](https://arxiv.org/abs/2112.10752)
-\-
-[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.pdf)]
-[[Code](https://github.com/CompVis/latent-diffusion)]
+- `2021/12` | `Stable Diffusion`
+| `Rombach et al., CVPR 2022`
+![citations](https://img.shields.io/badge/dynamic/json?url=https://api.semanticscholar.org/graph/v1/paper/CorpusID:245335280?fields=citationCount&query=%24.citationCount&label=citations)
+![Star](https://img.shields.io/github/stars/CompVis/latent-diffusion.svg?style=social&label=Star) <br>
+High-Resolution Image Synthesis with Latent Diffusion Models <br>
+[[arXiv](https://arxiv.org/abs/2112.10752)]
+[[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.html)]
+[[code](https://github.com/CompVis/latent-diffusion)]
+[[stable diffusion](https://github.com/Stability-AI/stablediffusion)
+![Star](https://img.shields.io/github/stars/Stability-AI/stablediffusion.svg?style=social&label=Star)]
 
 - `2021/09` | `LaMa` | [Resolution-robust Large Mask Inpainting with Fourier Convolutions](https://arxiv.org/abs/2109.07161)
 \-
 [[Paper](https://openaccess.thecvf.com/content/WACV2022/papers/Suvorov_Resolution-Robust_Large_Mask_Inpainting_With_Fourier_Convolutions_WACV_2022_paper.pdf)]
 [[Code](https://github.com/advimman/lama)]
 
-- `2021/03` | `Swin` | [Swin Transformer: Hierarchical Vision Transformer using Shifted Windows](https://arxiv.org/abs/2103.14030)
-\-
-[[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_Swin_Transformer_Hierarchical_Vision_Transformer_Using_Shifted_Windows_ICCV_2021_paper.pdf)]
-[[Code](https://github.com/microsoft/Swin-Transformer)]
+- `2021/03` | `Swin`
+| `Liu et al., ICCV 2021`
+![citations](https://img.shields.io/badge/dynamic/json?url=https://api.semanticscholar.org/graph/v1/paper/CorpusID:232352874?fields=citationCount&query=%24.citationCount&label=citations)
+![Star](https://img.shields.io/github/stars/microsoft/Swin-Transformer.svg?style=social&label=Star) <br>
+Swin Transformer: Hierarchical Vision Transformer using Shifted Windows <br>
+[[arXiv](https://arxiv.org/abs/2103.14030)]
+[[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Liu_Swin_Transformer_Hierarchical_Vision_Transformer_Using_Shifted_Windows_ICCV_2021_paper.html)]
+[[code](https://github.com/microsoft/Swin-Transformer)]
 
-- `2020/10` | `ViT` | [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929)
-\-
-[[Paper](https://openreview.net/pdf?id=YicbFdNTTy)]
+- `2020/10` | `ViT`
+| `Dosovitskiy et al., ICLR 2021`
+![citations](https://img.shields.io/badge/dynamic/json?url=https://api.semanticscholar.org/graph/v1/paper/CorpusID:225039882?fields=citationCount&query=%24.citationCount&label=citations) <br>
+An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale <br>
+[[arXiv](https://arxiv.org/abs/2010.11929)]
+[[paper](https://openreview.net/forum?id=YicbFdNTTy)]
+[[Implementation](https://github.com/lucidrains/vit-pytorch)]
 
 ---
 
