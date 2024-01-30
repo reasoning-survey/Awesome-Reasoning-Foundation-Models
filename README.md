@@ -719,6 +719,14 @@ An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale <br>
 
 #### 3.1.3 Spatial Commonsense Reasoning
 
+- `2024/01` | `SpatialVLM`
+| `Chen et al.`
+![citations](https://img.shields.io/badge/dynamic/json?url=https://api.semanticscholar.org/graph/v1/paper/CorpusID:267069344?fields=citationCount&query=%24.citationCount&label=citations) <br>
+SpatialVLM: Endowing Vision-Language Models with Spatial Reasoning Capabilities <br>
+[[arXiv](https://arxiv.org/abs/2401.12168)]
+[[paper](https://arxiv.org/pdf/2401.12168.pdf)]
+[[project](https://spatial-vlm.github.io/)]
+
 - `2022/03` | [Things not Written in Text: Exploring Spatial Commonsense from Visual Signals](https://arxiv.org/abs/2203.08075)
 \-
 [[Paper](https://aclanthology.org/2022.acl-long.168.pdf)]
@@ -1655,6 +1663,14 @@ Language Models
 
 <br>
 
+- `2024/01` | `AutoRT`
+| `Ahn et al.`
+![citations](https://img.shields.io/badge/dynamic/json?url=https://api.semanticscholar.org/graph/v1/paper/CorpusID:266906759?fields=citationCount&query=%24.citationCount&label=citations) <br>
+AutoRT: Embodied Foundation Models for Large Scale Orchestration of Robotic Agents <br>
+[[arXiv](https://arxiv.org/abs/2401.12963)]
+[[paper](https://arxiv.org/pdf/2401.12963.pdf)]
+[[project](https://auto-rt.github.io/)]
+
 - `2023/11` | `OpenFlamingo` | [Vision-Language Foundation Models as Effective Robot Imitators](https://arxiv.org/abs/2311.01378)
 \-
 
@@ -1663,6 +1679,14 @@ Language Models
 
 - `2023/05` | `RAP` | [Reasoning with Language Model is Planning with World Model](https://arxiv.org/abs/2305.14992)
 \-
+
+- `2023/03` | `PaLM-E`
+| `Driess et al., ICML 2023`
+![citations](https://img.shields.io/badge/dynamic/json?url=https://api.semanticscholar.org/graph/v1/paper/CorpusID:257364842?fields=citationCount&query=%24.citationCount&label=citations) <br>
+PaLM-E: An Embodied Multimodal Language Model <br>
+[[arXiv](https://arxiv.org/abs/2303.03378)]
+[[paper](https://icml.cc/virtual/2023/poster/23969)]
+[[project](https://palm-e.github.io/)]
 
 - `2022/12` | `RT-1` | [RT-1: Robotics Transformer for Real-World Control at Scale](https://arxiv.org/abs/2212.06817)
 
