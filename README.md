@@ -2681,6 +2681,15 @@ LongLoRA: Efficient Fine-tuning of Long-Context Large Language Models <br>
 
 [Reasoning Techniques (Back-to-Top)](#4-reasoning-techniques)
 
+- `2024/01` | `MoE-LLaVA`
+| `Lin et al.`
+![citations](https://img.shields.io/badge/dynamic/json?url=https://api.semanticscholar.org/graph/v1/paper/CorpusID:267311517?fields=citationCount&query=%24.citationCount&label=citations)
+![Star](https://img.shields.io/github/stars/PKU-YuanGroup/MoE-LLaVA.svg?style=social&label=Star) <br>
+MoE-LLaVA: Mixture of Experts for Large Vision-Language Models <br>
+[[arXiv](https://arxiv.org/abs/2401.15947)]
+[[paper](https://arxiv.org/pdf/2401.15947.pdf)]
+[[code](https://github.com/PKU-YuanGroup/MoE-LLaVA)]
+
 - `2023/06` | [An Efficient General-Purpose Modular Vision Model via Multi-Task Heterogeneous Training](https://arxiv.org/abs/2306.17165)
 \-
 
