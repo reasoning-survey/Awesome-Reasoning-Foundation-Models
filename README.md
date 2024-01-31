@@ -2053,6 +2053,15 @@ LLaVA-Med: Training a Large Language-and-Vision Assistant for Biomedicine in One
 [[paper](https://neurips.cc/virtual/2023/poster/73643)]
 [[code](https://github.com/microsoft/LLaVA-Med)]
 
+- `2023/05` | `HuatuoGPT`
+| `Zhang et al., Findings of EMNLP 2023`
+![citations](https://img.shields.io/badge/dynamic/json?url=https://api.semanticscholar.org/graph/v1/paper/CorpusID:258865566?fields=citationCount&query=%24.citationCount&label=citations)
+![Star](https://img.shields.io/github/stars/FreedomIntelligence/HuatuoGPT.svg?style=social&label=Star) <br>
+HuatuoGPT, Towards Taming Language Model to Be a Doctor <br>
+[[arXiv](https://arxiv.org/abs/2305.15075)]
+[[paper](https://aclanthology.org/2023.findings-emnlp.725/)]
+[[code](https://github.com/FreedomIntelligence/HuatuoGPT)]
+
 - `2023/05` | `Med-PaLM 2`
 | `Singhal et al.`
 ![citations](https://img.shields.io/badge/dynamic/json?url=https://api.semanticscholar.org/graph/v1/paper/CorpusID:258715226?fields=citationCount&query=%24.citationCount&label=citations) <br>
