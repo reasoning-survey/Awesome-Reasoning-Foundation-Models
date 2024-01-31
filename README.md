@@ -418,20 +418,34 @@ An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale <br>
 
 [Foundation Models (Back-to-Top)](#2-foundation-models)
 
-- `2023/12` | `InternVL` | [InternVL: Scaling up Vision Foundation Models and Aligning for Generic Visual-Linguistic Tasks](https://arxiv.org/abs/2312.14238)
-\-
-[[Paper](https://arxiv.org/pdf/2312.14238.pdf)]
-[[Code](https://github.com/OpenGVLab/InternVL)]
+- `2024/01` | `MouSi`
+| `Fan et al.`
+![Star](https://img.shields.io/github/stars/FudanNLPLAB/MouSi.svg?style=social&label=Star) <br>
+MouSi: Poly-Visual-Expert Vision-Language Models <br>
+[[arXiv](https://arxiv.org/abs/2401.17221)]
+[[paper](https://arxiv.org/pdf/2401.17221.pdf)]
+[[code](https://github.com/FudanNLPLAB/MouSi)]
+
+- `2023/12` | `InternVL`
+| `Chen et al.`
+![citations](https://img.shields.io/badge/dynamic/json?url=https://api.semanticscholar.org/graph/v1/paper/CorpusID:266521410?fields=citationCount&query=%24.citationCount&label=citations)
+![Star](https://img.shields.io/github/stars/OpenGVLab/InternVL.svg?style=social&label=Star) <br>
+InternVL: Scaling up Vision Foundation Models and Aligning for Generic Visual-Linguistic Tasks <br>
+[[arXiv](https://arxiv.org/abs/2312.14238)]
+[[paper](https://arxiv.org/pdf/2312.14238.pdf)]
+[[code](https://github.com/OpenGVLab/InternVL)]
 
 - `2023/12` | `Gemini` | [Gemini: A Family of Highly Capable Multimodal Models](https://arxiv.org/abs/2312.11805)
 \-
 [[Paper](https://arxiv.org/pdf/2312.11805.pdf)]
 [[Project](https://deepmind.google/technologies/gemini/#introduction)]
 
-- `2023/10` | `LLaVA-1.5` | [Improved Baselines with Visual Instruction Tuning](https://arxiv.org/abs/2310.03744)
-\-
-[[Paper](https://arxiv.org/pdf/2310.03744.pdf)]
-[[Project](https://llava-vl.github.io)]
+- `2023/10` | `LLaVA-1.5`
+| `Liu et al.`
+![citations](https://img.shields.io/badge/dynamic/json?url=https://api.semanticscholar.org/graph/v1/paper/CorpusID:263672058?fields=citationCount&query=%24.citationCount&label=citations) <br>
+Improved Baselines with Visual Instruction Tuning <br>[[arXiv](https://arxiv.org/abs/2310.03744)]
+[[paper](https://arxiv.org/pdf/2310.03744.pdf)]
+[[project](https://llava-vl.github.io)]
 
 - `2023/09` | `GPT-4V` | GPT-4V(ision) System Card
 \-
