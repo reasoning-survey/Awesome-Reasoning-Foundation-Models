@@ -418,6 +418,12 @@ An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale <br>
 
 [Foundation Models (Back-to-Top)](#2-foundation-models)
 
+- `2024/01` | `LLaVA-1.6`
+| `Liu et al.` <br>
+LLaVA-1.6: Improved reasoning, OCR, and world knowledge <br>
+[[code](https://github.com/haotian-liu/LLaVA)]
+[[blog](https://llava-vl.github.io/blog/2024-01-30-llava-1-6/)]
+
 - `2024/01` | `MouSi`
 | `Fan et al.`
 ![Star](https://img.shields.io/github/stars/FudanNLPLAB/MouSi.svg?style=social&label=Star) <br>
@@ -445,6 +451,7 @@ InternVL: Scaling up Vision Foundation Models and Aligning for Generic Visual-Li
 ![citations](https://img.shields.io/badge/dynamic/json?url=https://api.semanticscholar.org/graph/v1/paper/CorpusID:263672058?fields=citationCount&query=%24.citationCount&label=citations) <br>
 Improved Baselines with Visual Instruction Tuning <br>[[arXiv](https://arxiv.org/abs/2310.03744)]
 [[paper](https://arxiv.org/pdf/2310.03744.pdf)]
+[[code](https://github.com/haotian-liu/LLaVA)]
 [[project](https://llava-vl.github.io)]
 
 - `2023/09` | `GPT-4V` | GPT-4V(ision) System Card
