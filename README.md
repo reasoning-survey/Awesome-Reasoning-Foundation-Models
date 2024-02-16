@@ -2652,7 +2652,7 @@ LongLoRA: Efficient Fine-tuning of Long-Context Large Language Models <br>
 - `2022/12` | `OPT-IML` / `OPT-IML Bench` | [OPT-IML: Scaling Language Model Instruction Meta Learning through the Lens of Generalization](https://arxiv.org/abs/2212.12017)
 \-
 
-- `2022/12` | `Self-Instruc` | [Self-Instruct: Aligning Language Models with Self-Generated Instructions](https://arxiv.org/abs/2212.10560)
+- `2022/12` | `Self-Instruct` | [Self-Instruct: Aligning Language Models with Self-Generated Instructions](https://arxiv.org/abs/2212.10560)
 \-
 
 - `2022/12` | `Unnatural Instructions` | [Unnatural Instructions: Tuning Language Models with (Almost) No Human Labor](https://arxiv.org/abs/2212.09689)
