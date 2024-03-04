@@ -2820,6 +2820,10 @@ MoE-LLaVA: Mixture of Experts for Large Vision-Language Models <br>
 #### 4.5.2 Chain-of-Thought
 
 ##### a. Zero-Shot CoT
+- `2023/09` | `LoT` | [Enhancing Zero-Shot Chain-of-Thought Reasoning in Large Language Models through Logic](https://arxiv.org/abs/2309.13339)
+\-
+[[Paper](https://arxiv.org/abs/2309.13339)]
+[[Code](https://github.com/xf-zhao/LoT)]
 
 - `2023/05` | `Plan-and-Solve` | [Plan-and-Solve Prompting: Improving Zero-Shot Chain-of-Thought Reasoning by Large Language Models](https://arxiv.org/abs/2305.04091)
 \-
