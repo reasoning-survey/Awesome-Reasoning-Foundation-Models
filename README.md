@@ -1290,6 +1290,16 @@ Language Models
 - `2022/09` | `FOLIO` | [FOLIO: Natural Language Reasoning with First-Order Logic](https://arxiv.org/abs/2209.00840)
 \-
 
+- `2022/06` | `BIG-bench` | [Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models](https://arxiv.org/abs/2206.04615)
+\-
+[[Paper](https://openreview.net/pdf?id=uyTL5Bvosj)]
+[[Code](https://github.com/google/BIG-bench)]
+
+- `2021/04` | `AR-LSAT` | [AR-LSAT: Investigating Analytical Reasoning of Text](https://arxiv.org/pdf/2104.06598)
+\-
+[[Paper](https://aclanthology.org/2022.findings-naacl.177/)]
+[[Code](https://github.com/zhongwanjun/AR-LSAT)]
+
 - `2020/12` | `ProofWriter` [ProofWriter: Generating Implications, Proofs, and Abductive Statements over Natural Language](https://arxiv.org/abs/2012.13048)
 \-
 
