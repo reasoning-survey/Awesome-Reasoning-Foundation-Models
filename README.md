@@ -833,10 +833,6 @@ SpatialVLM: Endowing Vision-Language Models with Spatial Reasoning Capabilities 
 
 <br>
 
-- `2024/11` | `ALT` | [Enhancing Reasoning Capabilities of LLMs via Principled Synthetic Logic Corpus](https://arxiv.org/abs/2411.12498)
-\-
-[[Paper](https://arxiv.org/abs/2411.12498)]
-| `Morishita et al., NeurIPS 2024`
 
 - `2023/10` | `MathVista` | [MathVista: Evaluating Math Reasoning in Visual Contexts with GPT-4V, Bard, and Other Large Multimodal Models](https://arxiv.org/abs/2310.02255)
 \-
@@ -845,10 +841,6 @@ SpatialVLM: Endowing Vision-Language Models with Spatial Reasoning Capabilities 
 [[Project](https://mathvista.github.io/)]
 | `Lu et al., ICLR 2024`
 
-- `2023/08` | `FLD` | [Learning Deductive Reasoning from Synthetic Corpus based on Formal Logic](https://arxiv.org/abs/2308.07336)
-\-
-[[Paper](https://openreview.net/forum?id=a6PvWIHFsF)]
-| `Morishita et al., ICML 2023`
 
 
 - `2022/11` | Tokenization in the Theory of Knowledge
