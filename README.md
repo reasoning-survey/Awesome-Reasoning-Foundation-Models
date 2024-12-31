@@ -1200,6 +1200,12 @@ MathBench: A Comprehensive Multi-Level Difficulty Mathematics Evaluation Dataset
 
 <br>
 
+- `2024/12` | `FLDx2` | [Enhancing Reasoning Capabilities of LLMs via Principled Synthetic Logic Corpus](https://arxiv.org/abs/2411.12498)
+\-
+
+- `2023/11` | `FLD` | [Learning Deductive Reasoning from Synthetic Corpus based on Formal Logic](https://arxiv.org/abs/2308.07336)
+\-
+
 - `2023/10` | `LogiGLUE` | [Towards LogiGLUE: A Brief Survey and A Benchmark for Analyzing Logical Reasoning Capabilities of Language Models](https://arxiv.org/abs/2310.00836)
 \-
 
