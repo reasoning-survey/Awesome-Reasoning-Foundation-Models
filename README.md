@@ -1439,6 +1439,8 @@ Language Models
 
 <br>
 
+- `2025/02` | `VPT` | [Introducing Visual Perception Token into Multimodal Large Language Model](https://arxiv.org/abs/2502.17425) - [[Paper](https://arxiv.org/abs/2502.17425)] - [[Code](https://github.com/yu-rp/VisualPerceptionToken)] - [[Models](https://huggingface.co/collections/rp-yu/vpt-models-67b6afdc8679a05a2876f07a)] - [[Datasets](https://huggingface.co/datasets/rp-yu/VPT_Datasets)]
+
 - `2022/11` | `G-VUE` | [Perceive, Ground, Reason, and Act: A Benchmark for General-purpose Visual Representation](https://arxiv.org/abs/2211.15402)
 \-
 
