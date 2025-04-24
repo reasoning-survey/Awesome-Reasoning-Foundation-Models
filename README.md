@@ -1465,6 +1465,8 @@ Language Models
 \-
 
 #### 3.5.x Benchmarks, Datasets, and Metrics
+- `2025/04` | `VisuLogic` | [VisuLogic: A Benchmark for Evaluating Visual Reasoning in Multi-modal Large Language Models](https://arxiv.org/abs/2504.15279)
+\-
 
 - `2021/12` | `PTR` | [PTR: A Benchmark for Part-based Conceptual, Relational, and Physical Reasoning](https://arxiv.org/abs/2112.05136)
 \-
