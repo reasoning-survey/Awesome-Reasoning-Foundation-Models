@@ -57,7 +57,9 @@ We welcome contributions to this repository to add more resources. Please submit
 
 This repository is primarily based on the following paper:
 
->[**A Survey of Reasoning with Foundation Models**](https://arxiv.org/abs/2312.11562) <br>
+>[**A Survey of Reasoning with Foundation Models: Concepts, Methodologies, and Outlook**](https://dl.acm.org/doi/10.1145/3729218) <br>
+>
+> [[Paper](https://dl.acm.org/doi/10.1145/3729218)][[ArXiv](https://arxiv.org/abs/2312.11562)]
 >
 > [Jiankai Sun](),
 [Chuanyang Zheng](https://chuanyang-zheng.github.io/),
@@ -97,11 +99,19 @@ This repository is primarily based on the following paper:
 If you find this repository helpful, please consider citing:
 
 ```bibtex
-@article{sun2023survey,
-  title={A Survey of Reasoning with Foundation Models},
-  author={Sun, Jiankai and Zheng, Chuanyang and Xie, Enze and Liu, Zhengying and Chu, Ruihang and Qiu, Jianing and Xu, Jiaqi and Ding, Mingyu and Li, Hongyang and Geng, Mengzhe and others},
-  journal={arXiv preprint arXiv:2312.11562},
-  year={2023}
+@article{sun2025survey,
+  author = {Sun, Jiankai and Zheng, Chuanyang and Xie, Enze and Liu, Zhengying and Chu, Ruihang and Qiu, Jianing and Xu, Jiaqi and Ding, Mingyu and Li, Hongyang and Geng, Mengzhe and Wu, Yue and Wang, Wenhai and Chen, Junsong and Yin, Zhangyue and Ren, Xiaozhe and Fu, Jie and He, Junxian and Wu, Yuan and Liu, Qi and Liu, Xihui and Li, Yu and Dong, Hao and Cheng, Yu and Zhang, Ming and Heng, Pheng Ann and Dai, Jifeng and Luo, Ping and Wang, Jingdong and Wen, Ji-Rong and Qiu, Xipeng and Guo, Yike and Xiong, Hui and Liu, Qun and Li, Zhenguo},
+  title = {A Survey of Reasoning with Foundation Models: Concepts, Methodologies, and Outlook},
+  year = {2025},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  issn = {0360-0300},
+  url = {https://doi.org/10.1145/3729218},
+  doi = {10.1145/3729218},
+  abstract = {Reasoning, a crucial ability for complex problem-solving, plays a pivotal role in various real-world settings such as negotiation, medical diagnosis, and criminal investigation. It serves as a fundamental methodology in the field of Artificial General Intelligence (AGI). With the ongoing development of foundation models, there is a growing interest in exploring their abilities in reasoning tasks. In this paper, we introduce seminal foundation models proposed or adaptable for reasoning, highlighting the latest advancements in various reasoning tasks, methods, and benchmarks. We then delve into the potential future directions behind the emergence of reasoning abilities within foundation models. We also discuss the relevance of multimodal learning, autonomous agents, and super alignment in the context of reasoning. By discussing these future research directions, we hope to inspire researchers in their exploration of this field, stimulate further advancements in reasoning with foundation models, e.g. Large Language Models (LLMs), and contribute to the development of AGI.},
+  journal = {ACM Comput. Surv.},
+  month = apr,
+  keywords = {Reasoning, Foundation Models, Multimodal, AI Agent, Artificial General Intelligence, LLM}
 }
 ```
 
