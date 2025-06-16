@@ -722,6 +722,12 @@ Improved Baselines with Visual Instruction Tuning <br>[[arXiv](https://arxiv.org
 
 #### 3.1.2 Physical Commonsense Reasoning
 
+- `2025/05` | `PhyX` | [PhyX: Does Your Model Have the "Wits" for Physical Reasoning?](https://arxiv.org/abs/2505.15929)
+\-
+[[Paper](https://arxiv.org/pdf/2505.15929.pdf)]
+[[Code](https://github.com/NastyMarcus/PhyX)]
+[[Project](https://phyx-bench.github.io/)]
+
 - `2023/10` | `NEWTON` | [NEWTON: Are Large Language Models Capable of Physical Reasoning?](https://arxiv.org/abs/2310.07018)
 \-
 [[Paper](https://arxiv.org/pdf/2310.07018.pdf)]
