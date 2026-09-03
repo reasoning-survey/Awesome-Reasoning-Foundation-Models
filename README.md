@@ -781,6 +781,12 @@ SpatialVLM: Endowing Vision-Language Models with Spatial Reasoning Capabilities 
 
 #### 3.1.x Benchmarks, Datasets, and Metrics
 
+- `2025/01` | `HLE` | [Humanity's Last Exam](https://arxiv.org/abs/2501.14249) — PhD-level multi-discipline benchmark (3,000 questions)
+\-
+[[Paper](https://arxiv.org/pdf/2501.14249.pdf)]
+[[Benchmark](https://lastexam.ai/)]
+[[Verantyx v6 — LLM-free symbolic reasoning engine (3.80% bias-free)](https://github.com/Ag3497120/verantyx-v6)]
+
 - `2023/06` | `CConS` | [Probing Physical Reasoning with Counter-Commonsense Context](https://arxiv.org/abs/2306.02258)
 \-
 
