@@ -2844,6 +2844,8 @@ MoE-LLaVA: Mixture of Experts for Large Vision-Language Models <br>
 
 ##### b. Retrieval Approach
 
+- `2026/08` | `ThinkRetrieve` | [ThinkRetrieve: Retrieval-Augmented Reasoning Traces for Test-Time Scaling](https://arxiv.org/abs/2608.10928) [[Code]](https://github.com/itsvaibhav01/ThinkRetrieve)
+
 - `2023/10` | `DQ-LoRe` | [DQ-LoRe: Dual Queries with Low Rank Approximation Re-ranking for In-Context Learning](https://arxiv.org/abs/2310.02954)
 \-
 
