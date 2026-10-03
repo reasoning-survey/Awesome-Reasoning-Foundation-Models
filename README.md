@@ -133,6 +133,11 @@ If you find this repository helpful, please consider citing:
 [[arXiv](https://arxiv.org/abs/2309.07864)]
 [[Link](https://github.com/WooooDyy/LLM-Agent-Paper-List)]
 
+- LLM Agents: A Survey
+\-
+[[Paper](https://www.preprints.org/manuscript/202608.0265/v1)]
+[[Link](https://github.com/js-lee-AI/awesome-llm-agent-papers)]
+
 - Multimodal Foundation Models: From Specialists to General-Purpose Assistants
 \-
 [[arXiv](https://arxiv.org/abs/2309.10020)]
