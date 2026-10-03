@@ -2210,6 +2210,7 @@ Large Language Models Encode Clinical Knowledge <br>
     - [4.3.2 Training Pipeline](#432-training-pipeline)
       - [a. Online Human Preference Training](#a-online-human-preference-training)
       - [b. Offline Human Preference Training](#b-offline-human-preference-training)
+      - [c. Personalized Preference Training](#c-personalized-preference-training)
   - [4.4 Mixture of Experts (MoE)](#44-mixture-of-experts-moe)
   - [4.5 In-Context Learning](#45-in-context-learning)
     - [4.5.1 Demonstration Example Selection](#451-demonstration-example-selection)
@@ -2614,6 +2615,7 @@ LongLoRA: Efficient Fine-tuning of Long-Context Large Language Models <br>
   - [4.3.2 Training Pipeline](#432-training-pipeline)
     - [a. Online Human Preference Training](#a-online-human-preference-training)
     - [b. Offline Human Preference Training](#b-offline-human-preference-training)
+    - [c. Personalized Preference Training](#c-personalized-preference-training)
 
 #### 4.3.1 Data
 
@@ -2728,6 +2730,11 @@ LongLoRA: Efficient Fine-tuning of Long-Context Large Language Models <br>
 \-
 
 - `2022/09` | `SLiC` | [Calibrating Sequence likelihood Improves Conditional Language Generation](https://arxiv.org/abs/2210.00045)
+\-
+
+##### c. Personalized Preference Training
+
+- `2025/09` | `TagPR` | [TagPR: Tag-Guided Process Supervision for Personalization Reasoning in Large Language Models](https://arxiv.org/abs/2509.23140)
 \-
 
 ---
