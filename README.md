@@ -1047,6 +1047,10 @@ Compiler from a Proof Assistant
 
 [Mathematical Reasoning (Back-to-Top)](#32-mathematical-reasoning)
 
+- `2025/10` | `Bayes@N` | [Don't Pass@k: A Bayesian Framework for Large Language Model Evaluation](https://arxiv.org/abs/2510.04265)
+\-
+[[Code](https://github.com/mohsenhariri/scorio)]
+
 - `2024/01` | `MathBench`
 ![Star](https://img.shields.io/github/stars/open-compass/MathBench.svg?style=social&label=Star) <br>
 MathBench: A Comprehensive Multi-Level Difficulty Mathematics Evaluation Dataset <br>
