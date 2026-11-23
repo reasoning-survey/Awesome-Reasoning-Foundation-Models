@@ -1828,6 +1828,9 @@ PaLM-E: An Embodied Multimodal Language Model <br>
 
 #### 3.8.3 Multi-agent Reasoning
 
+- `2026/11` | `PACE` | [More Agents, More Samples, or More Thinking? Untangling Coordination, Ensembling, and Test-Time Compute in Multi-Agent LLMs](https://huggingface.co/papers/2611.17610) ([Code](https://github.com/mahmoudsajjadi/pace) | [Demo](https://huggingface.co/spaces/sajjadi/pace-studio))
+\-
+
 - `2023/07` | `Federated LLM` | [Federated Large Language Model: A Position Paper](https://arxiv.org/abs/2307.08925)
 \-
 
